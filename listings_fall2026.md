@@ -94,6 +94,12 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [New Studio Near USC & DTLA (2730 Raymond) — $1,395](https://usc.uloop.com/housing/view.php/2654352267/New-Studio-Near-USC-amp-DTLA)
 - [Furnished Private Rooms (DPS Zone) — $1,250](https://usc.uloop.com/housing/view.php/2676902021/Furnished-Private-Rooms-Near-University-of-Southern-California-DPS)
 
+### 自动监控新增（2026-04-25）
+
+- [2026-04-25] [North University Park PM — $1,125+](https://www.uschousingnuppm.com) — Studio 起 / ⚠️ 问起租日期 + 押金倍数 / 来源: Google搜索 / 地址 1149 W 30th St，距 USC 约 0.5 mile（步行 9 分钟）；与黑名单公司无已知关联；WebFetch 403 无法核实详情，建议查 [Apartments.com](https://www.apartments.com/north-university-park-pm-los-angeles-ca/b3trw8c/) 或直接访问官网；不计入今日新增（无发布日期）
+
+> ⚠️ **黑名单警报 — The Shrine Collection**（shrinecollection.com）已确认为 **Stuho 旗下物业**（stuho.com 直接挂牌 id=177），已列入黑名单。如在其他平台搜到该楼名请直接跳过。
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
