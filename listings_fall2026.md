@@ -1,0 +1,250 @@
+# Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
+
+**搜索日期：2026-04-24　　目标入住：~2026-08-20（Fall 2026）**
+**单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
+**通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
+
+---
+
+## ⚠️ 黑名单 / 避雷公司（无论价格多便宜都不要选）
+
+> 因为我没有 SSN，公寓公司一般要求 2x 押金；以下公司被多方记录加倍宰留学生 + 押金不退 + 维修不到位。
+
+| 公司 | 主要问题 | 来源 |
+|---|---|---|
+| **Tripalink** ❌ | 对无 SSN 留学生收 **3x 押金**；Yelp/Trustpilot 大量 1 星投诉押金不退、bait-and-switch、虚假 $120 cleaning fee；多人退房后只拿回 1/3 押金 | [Trustpilot](https://www.trustpilot.com/review/tripalink.com) · [Yelp 144 reviews](https://www.yelp.com/biz/tripalink-los-angeles) · [BBB 投诉](https://www.bbb.org/us/ca/los-angeles/profile/property-management/tripalink-property-management-inc-1216-1533637/complaints) · [ComplaintsBoard](https://www.complaintsboard.com/tripalink-lease-agreement-and-deposit-return-c1393823) |
+| **Mosaic Student Communities** ❌ | 黑霉、煤气泄漏、白蚁；70+ 人联名抗议虚假"wear and tear"扣押金；$3,200 押金被全额扣作 repaint；曾被诉讼 | [Daily Trojan 调查](https://dailytrojan.com/2019/04/21/black-mold-gas-leaks-termites-students-report-problems-in-mosaic-off-campus-housing/) · [Yelp 140 reviews](https://www.yelp.com/biz/mosaic-student-communities-los-angeles) |
+| **First Choice Housing** ❌ | 用"已翻新样板房"视频骗签合同（实际房破不堪）；高压逼定（"今晚不交押金就给别人"）；明确"play on" 留学生没经验；Google 评分 1.7 星 | [Daily Trojan 报道](https://dailytrojan.com/2021/10/21/students-criticize-first-choice-housing-practices/) |
+| **Stuho（含 Element by Stuho / The Series by Stuho）** ❌ | 2017 因 Element 楼盘工程拖期 + 进驻时蟑螂/漏水/施工噪音被学生集体诉讼；近年仍有 $3,600 押金纠纷 | [Daily Trojan 诉讼报道](https://dailytrojan.com/2017/04/13/student-tenants-file-lawsuit-stuho/) · [Yelp 137 reviews](https://www.yelp.com/biz/stuho-student-housing-los-angeles-3) |
+| **The Lorenzo** ⚠️ | 维修极慢、long ticket queue；非"诈骗级"，但留学生反馈差 | [Trojans360 评价](https://www.trojans360.com/trojans360posts/a-review-of-usc-off-campus-housing-options) |
+
+**通用避雷信号**（任意公司符合都要警惕）：
+- 要求押金 > 2x 月租（无 SSN 标准是 2x）
+- 给"截止今晚/明天"的虚假紧迫感
+- 不让看实际单元，只发样板房视频
+- 不愿给清单式 itemized deduction（加州法律规定 21 天内必须给）
+- Yelp/Google 评分明显两极分化（1 星集中投诉押金/扣费）
+
+---
+
+## 0. 通勤可达范围（先确认范围）
+
+USC 学生有 **U-Pass**，免费坐 LA Metro 所有 rail/bus。USC 自己的校车主要有：
+
+- **Tram（环校）**：仅校园周边，不出 DPS Patrol Zone
+- **ICS（Intercampus Shuttle）**：UPC ↔ Union Station ↔ HSC，工作日 7:00am–10:05pm；周末 8:30am–4:30pm
+- **Lyft Rides**：UPC 范围 Normandie 以东 / Washington 以南 / Main 以西 / MLK 以北，仅 7pm–2am
+- **Circuit Tram**：从 Eastlake/Biggy 出发，工作日 9am–4:40pm，每 20 分钟一班
+
+实际 2 小时通勤可达地点：
+
+| 区域 | 路线 | 单程 |
+|---|---|---|
+| **K-town**（Wilshire/Vermont）| Metro D Line → 7th St/Metro Center → E Line → Expo/Vermont | 25–35 min |
+| **DTLA**（7th St / Pershing Sq）| Metro E Line | 15–20 min |
+| **San Gabriel / Rosemead / Alhambra** | Metro 76/70 → Union Station → ICS → USC（或 → E Line）| 70–110 min |
+| **El Monte / Monterey Park** | Foothill Silver Streak → DTLA → E Line | 60–90 min |
+| **Pasadena** | Metro A Line → 7th St → E Line | 60–80 min |
+
+> **结论**：K-town / DTLA / 西 SGV（Alhambra/Monterey Park/San Gabriel/Rosemead 西部）都在 2 小时内。东 SGV（El Monte 以东）勉强可以靠 Silver Streak。
+
+---
+
+## 1. USC 周边（首选）
+
+### 已知较为可靠的学生公寓品牌（Fall 2026 pre-leasing 中）
+
+> ❌ Tripalink / Mosaic / First Choice / Stuho 已从清单移除，见上方黑名单
+> ⚠️ 任何品牌签约前都要 **明确问押金倍数 + 看清退押金条款**
+
+| 名称 | 地址 | Studio | 1B1B | 备注 |
+|---|---|---|---|---|
+| **Tessera USC** ⚠️验证中 | 1069 Exposition Blvd | $1,100+（合租）| — | 步行 5 min；by-the-bed；新楼无长期口碑，签约前 Yelp 上查 |
+| **The District at USC** ⚠️验证中 | USC DPS Zone | $2,385+ | $3,600+（2BR） | 含家具 luxury；查 Yelp 评分再签 |
+| **Hub LA Coliseum** ⚠️验证中 | 紧邻 Coliseum | $1,715+ | $2,295+ | 大型学生楼，押金等于月租 ≈ 1x；Daily Trojan 提过 move-in 慢但无押金问题报道；签前查最新评价 |
+| **Robinson Residences** ✅相对靠谱 | 多处 | — | — | 1972 起经营，无重大投诉；偏老房但口碑稳 ([网站](https://robinsonresidences.com/about-us/)) |
+| **Trojan Palms** ⚠️验证中 | USC 旁 | — | — | 没找到大投诉，自查为准 ([网站](https://www.trojanpalms.com/)) |
+| **Symphony Residential** ⚠️验证中 | 多处 | — | — | 商用 REIT，标准押金政策，[官网](https://www.symphonyresidential.com/) 查物业 |
+| **University Gateway** ⚠️合约绑定 USC | 3335 S Figueroa | — | — | 走 USC 学生账户billing，部分名额走 USC Housing 系统；自由度低 |
+
+### 为什么不推荐其他"学生公寓"品牌？
+
+USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice），它们普遍：
+1. 知道留学生维权难，故意拖押金 + 收高昂"清洁费/重新喷漆费"
+2. 面对无 SSN 的把押金从 2x 推到 3x，差额几千美元
+3. 签约前"催爆"，签完后维修响应慢
+
+→ **更安全的策略**：选 (a) 大型 REIT（Equity/Greystar/AvalonBay）有正规 International Student Program，或 (b) ChineseInLA 上的私人华人房东（人多评价多，押金一般 1x–2x，当面验房好沟通）。
+
+### Craigslist USC（在租，需问 Aug 2026 起租）
+
+- [Bachelor apt **pre-leasing for USC 2026-2027** — $1,075](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bachelor-apt-pre-leasing/7926714684.html) ← **明确 2026-2027 学年，建议优先联系**
+- [Renovated Studio Close to USC — $1,900](https://losangeles.craigslist.org/lac/apa/d/los-angeles-renovated-studio-close-to/7929901842.html)
+- [Tastefully Renovated 1Bd/1Ba + Parking, North USC — $1,595](https://losangeles.craigslist.org/lac/apa/d/los-angeles-tastefully-renovated-1bd/7929132099.html)
+- [USC Adjacent Upper One Bedroom — $1,545](https://losangeles.craigslist.org/lac/apa/d/san-pedro-usc-adjacent-upper-one-bedroom/7924750984.html)
+- [1bdrm near USC — $1,575](https://losangeles.craigslist.org/lac/apa/d/los-angeles-1bdrm-apartmnet-near-usc/7926715446.html)
+- [Cute Spacious Studio Close to USC — $1,750](https://losangeles.craigslist.org/lac/apa/d/los-angeles-cute-spacious-studio-with/7929927255.html)（Lincoln Heights）
+- [Large Remodeled Studio Close to USC — $1,750](https://losangeles.craigslist.org/sgv/apa/d/los-angeles-large-fully-remodeled/7929925296.html)
+
+### Uloop USC
+
+- [USC Off-Campus D69 (2611 Portland St) — $1,800–$3,325](https://usc.uloop.com/housing/view.php/2683838963/USC-Off-Campus-Student-Housing--D69)（Tram + 5min bike）
+- [USC Off-Campus F78 (1168 W 36th Pl)](https://usc.uloop.com/housing/view.php/2683839077/USC-Off-Campus-Student-Housing--F78)（<1 block to USC）
+- [New Studio Near USC & DTLA (2730 Raymond) — $1,395](https://usc.uloop.com/housing/view.php/2654352267/New-Studio-Near-USC-amp-DTLA)
+- [Furnished Private Rooms (DPS Zone) — $1,250](https://usc.uloop.com/housing/view.php/2676902021/Furnished-Private-Rooms-Near-University-of-Southern-California-DPS)
+
+---
+
+## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
+
+### ChineseInLA — milkleasing（看起来是同一家中介，K-town 多个新楼盘）
+
+- [K-town 1B1B $2,029](https://www.chineseinla.com/f/page_viewtopic/t_3060747.html)（3/20 发）
+- [K-town 1B1B $2,267](https://www.chineseinla.com/f/page_viewtopic/t_3061777.html)
+- [K-town 1B1B $2,412](https://www.chineseinla.com/f/page_viewtopic/t_3060745.html)
+- [韩国城 Studio $1,707](https://www.chineseinla.com/f/page_viewtopic/t_3060744.html)
+- [韩国城 1B1B + Den $2,380](https://www.chineseinla.com/f/page_viewtopic/t_3060741.html)
+- [韩国城 全新 Studio](https://www.chineseinla.com/f/page_viewtopic/t_3049703.html)（ibjin1106）
+- [韩国城 新建公寓](https://www.chineseinla.com/f/page_viewtopic/t_3049130.html)
+- [完整 K-town 列表](https://www.chineseinla.com/f/page_viewforum/f_5/key_koreatown.html)
+
+### Craigslist K-town
+
+- [Charming Large Studio classic brick — $1,395](https://losangeles.craigslist.org/lac/apa/d/los-angeles-charming-large-studio-in/7927524679.html)
+- [Charming 1 Bed K-town — $1,699](https://losangeles.craigslist.org/lac/apa/d/los-angeles-weekend-tours-charming-bed/7929984441.html)
+- [Luxury Studio Near K-town, 1 Month Free — $1,725](https://losangeles.craigslist.org/lac/apa/d/los-angeles-luxury-studio-near/7929928131.html)
+- [Large 1 Bed K-town Promotion — $1,900](https://losangeles.craigslist.org/lac/apa/d/los-angeles-large-one-bed-bath/7930000618.html)
+- [Studio Suite K-town Pool/Spa — $2,180](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeledpool-spabrand-new/7930005647.html)
+
+### 大型公寓楼
+
+- [Radius Koreatown (680 S New Hampshire Ave)](https://www.equityapartments.com/los-angeles/wilshire-center/radius-koreatown-apartments) — Equity Residential
+- [The Rise Koreatown](https://liverisekoreatown.com/)
+- [sageLA (200 N Vermont Ave) — $2,198–$4,889](https://usc.uloop.com/housing/view.php/2683841811/sageLA---Brand-New) — Brand new
+
+---
+
+## 3. DTLA（次首选 — E Line 直达 USC ~15 min）
+
+### 大型公寓楼
+
+- [Sentral DTLA (732 S Spring) — Studio/1BR $1,908+](https://usc.uloop.com/housing/view.php/2683842437/Sentral-DTLA-at-732-S-Spring)（含家具可选）
+- [Axis DTLA — 1BR](https://www.axisdtla.com/los-angeles/axis/1-bedroom-apartments/)（4 周免租优惠 — 仅当下，秋季再问）
+- [G12](https://www.g12.la/floorplans) — Studio 起 $2,063
+- [Park Wilshire DTLA](https://parkwilshire.com/dtla-apartments/)
+- [Alloy Arts District](https://www.alloyla.com/availability/studio/s1)
+- [BedTLA](https://bedtla.com/floorplans/)
+- [Equity 90+ DTLA 房源汇总](https://www.equityapartments.com/los-angeles/downtown-los-angeles-apartments)
+
+### Craigslist DTLA
+
+- [Single Apartment Move-In Ready (1411 Toberman St) — $1,000](https://usc.uloop.com/housing/view.php/2659199394/Single-Apartment-Move-In-Ready)（DTLA 边缘，近 Staples）
+- [MOVE-IN READY Quiet Studio near Metro & DTLA (334 S Westlake) — $1,400](https://losangeles.craigslist.org/lac/apa/d/los-angeles-move-in-ready-quiet-studio/7929916267.html)
+- [Studio DTLA utilities included — $1,295](https://losangeles.craigslist.org/wst/apa/d/los-angeles-water-gas-electricity/7929973177.html)
+- [Studio Near DTLA — $1,150](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-available-near-dtla/7923515417.html)
+- [Brand New 1+1 Near DTLA + K-town — $2,150](https://losangeles.craigslist.org/lac/apa/d/los-angeles-brand-new-11-with-washer/7929866058.html)
+- [Modern Studio Near DTLA W/D — $2,299](https://losangeles.craigslist.org/wst/apa/d/los-angeles-modern-studio-near-dtla/7927808479.html)（West Adams）
+- [Artist Loft Studio DTLA/Westlake — $2,025](https://losangeles.craigslist.org/lac/apa/d/los-angeles-artist-loft-studio-in-dtla/7929676514.html)
+
+---
+
+## 4. San Gabriel / Rosemead / Alhambra（华人友好，更便宜，通勤 70–110 min）
+
+### Craigslist SGV — 1B1B（多数 < $2,000）
+
+- [San Gabriel 1BR/1BA — $1,500](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-apartment-for-rent-back/7927142446.html)（back house，立即起租）
+- [881 Carillo Dr San Gabriel 1BR/1BA + garage — $1,588](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-881-reduced-carillo-dr-one/7927119580.html)
+- [San Gabriel 1BR — $1,600/$1,700 (2 套)](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-bedroom-bath-for-rent/7928241344.html)
+- [San Gabriel 1BR Private Patio — $1,750](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-one-bedroom-one-bathprivate/7925352914.html)
+- [Beautifully Remodeled San Gabriel — $1,795](https://losangeles.craigslist.org/sgv/apa/d/arcadia-beautifully-remodeled-apartment/7923958198.html)
+- [Spacious & Quiet 1BR San Gabriel — $1,900](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-spacious-and-quiet-bed-bath/7923697944.html)
+- [North Alhambra 1BR/1BA + garage — $1,925](https://losangeles.craigslist.org/sgv/apa/d/alhambra-north-alhambra-bedroom-bath/7929921664.html)
+- [Spacious 1BD/1BA San Gabriel — $2,125](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-spacious-1bd-1ba-apartment/7923654644.html)
+- [Charming 1BR Triplex + Garage — $2,200](https://losangeles.craigslist.org/sgv/apa/d/san-gabriel-charming-1br-in-triplex/7923966867.html)
+
+### Rosemead
+
+- [Rosemead Studio + Den (private entrance) — $1,450](https://losangeles.craigslist.org/sgv/apa/d/rosemead-studio-den-a-private-entrance/7929346973.html)
+- [Rosemead 1BR — $1,495](https://losangeles.craigslist.org/lac/apa/d/rosemead-rosemead-apartamento-de-renta/7923695140.html)
+- [Rosemead 1BR — $1,900](https://losangeles.craigslist.org/sgv/apa/d/rosemead-one-bedroom-apartment/7925480484.html)
+
+### ChineseInLA SGV / Rosemead
+
+- [Rosemead 独主出入单间](https://www.chineseinla.com/f/page_viewtopic/t_3060747.html)
+- 圣盖博 / El Monte / Hacienda Heights 房源很多 — 浏览 [chineseinla 出租板](https://www.chineseinla.com/f/page_viewforum/f_5.html)
+
+> **通勤提示**：San Gabriel/Rosemead 到 USC 走 Metro 76/70 → Union Station → ICS shuttle → USC，约 80–100 分钟。住 Alhambra 西侧最优。
+
+---
+
+## 5. 直接搜索的平台（建议每周二 / 周四刷新）
+
+| 平台 | 链接 | 备注 |
+|---|---|---|
+| **Craigslist LA — apartments** | https://losangeles.craigslist.org/search/apa | 用 `query=USC` / `koreatown` / `DTLA` 关键词 |
+| **ChineseInLA 出租板** | https://www.chineseinla.com/f/page_viewforum/f_5.html | 华人房东，适合 SGV / K-town |
+| **ChineseInLA USC 标签** | https://www.chineseinla.com/tag/id_993/usc | |
+| **Zillow** | https://www.zillow.com/koreatown-los-angeles-ca/studio-apartments/ | 反爬严格，建议浏览器开 |
+| **Apartments.com** | https://www.apartments.com/koreatown-los-angeles-ca/studios/ | |
+| **Equity Residential（Radius K-town 等）** | https://www.equityapartments.com/los-angeles | 大 REIT，对国际生友好；2x 押金 |
+| **Greystar / AvalonBay** | 各自官网 | 同上，正规 |
+| **Hub LA Coliseum** | https://huboncampus.com/losangeles/ | Fall 2026 已开，需自查最新评价 |
+| **Robinson Residences** | https://robinsonresidences.com/ | 老牌，相对靠谱 |
+| **Uloop USC** | https://usc.uloop.com/housing/ | 学生发的多，过滤掉黑名单公司 |
+| **USC Off-Campus Housing 101** | 通过 housing.usc.edu | 官方合作渠道 |
+| **Westside Rentals** | https://www.westsiderentals.com/apartments/koreatown-apartments/studio/ | |
+| **Apartment Advisor** | https://www.apartmentadvisor.com/apartments/koreatown-los-angeles-ca/studio | |
+| **Redfin** | https://www.redfin.com/neighborhood/116045/CA/Los-Angeles/University-Park/studio-apartments-for-rent | |
+| **For Rent University** | https://www.forrentuniversity.com/University-of-Southern-California-University-Park-Campus/studio-apartments | |
+| ❌ ~~Tripalink / Stuho / Mosaic / First Choice~~ | — | 见黑名单，跳过 |
+
+### Facebook 群组（必加）
+
+- [USC HOUSING / SUBLETS / RENTALS](https://www.facebook.com/groups/uschousing/)
+- [USC Sub/Leases and Housing](https://www.facebook.com/groups/universityofsoutherncaliforniahousing/)
+- [USC (University of Southern California) Housing, Sublets & Roommates](https://www.facebook.com/groups/764096300371317/)
+- [USC Off-Campus Student Housing](https://www.facebook.com/groups/uscoffcampusstudenthousing/)
+- [USC Off-Campus Housing](https://www.facebook.com/groups/2276346809256403/)
+- [Los Angeles Housing, Rooms, Apartments, Sublets](https://www.facebook.com/groups/1621705121404017/)
+
+---
+
+## 6. 关键时间线建议
+
+- **2026-04 ～ 05**（现在）：开始联系大型公寓 pre-leasing；锁定 Tessera/Tripalink/Hub/sageLA。这些 8 月 lease 现在最划算（很多有 signing bonus / 1 月免租）
+- **2026-05 ～ 06**：联系 ChineseInLA / Craigslist 私房东，确认 8/20 起租；多数私房东 60 天内才确定下家
+- **2026-07**：大型公寓只剩零散单元，价格最贵
+- **2026-08**：抢最后捡漏（适合学生 sublease 7-8 月退租的）
+
+## 7. 选区取舍建议
+
+| 优先 | 区域 | 优 | 缺 |
+|---|---|---|---|
+| ★★★ | USC DPS Zone | 步行/Tram 直达；DPS 巡逻；Free Lyft | 学生楼贵；治安一般，需挑街区 |
+| ★★★ | K-town（Vermont/Wilshire 沿线）| Metro 直达 USC + DTLA；好吃；夜生活 | 1B1B 易破 $2,000；老楼多 |
+| ★★ | DTLA（Financial District / S Park）| E Line 直达 USC；高楼新 | studio 普遍 $2,000+；治安看街区 |
+| ★★ | Alhambra / Monterey Park / 西 SGV | 华人多便宜；70–80 min 通勤 | 通勤要换 1–2 次车 |
+| ★ | Rosemead / San Gabriel 东 | 最便宜；$1,400–$1,800 1B1B | 通勤 90–110 min；Metro 班次少 |
+
+---
+
+## 8. 行动清单 ☐
+
+- [ ] 联系 Hub LA Coliseum / Robinson Residences / sageLA 发 Fall 2026 询价邮件（**主动问"无 SSN 押金倍数"**）
+- [ ] 大 REIT：Equity Residential（Radius K-town）、Greystar、AvalonBay 直接走他们的 International Student Program
+- [ ] 加 6 个 Facebook USC 房源群组
+- [ ] Craigslist 收藏夹保存，每周扫一次
+- [ ] ChineseInLA 注册账号，私信 milkleasing 等中介问 8/20 起租 + 押金条款
+- [ ] 6 月初起每天刷一次 sublease（学生 7-8 月退租多）
+- [ ] 确认有 U-Pass，规划好家 → USC 路线（Google Maps 试 8am workday）
+
+## 9. 签约保护清单（关键 — 无 SSN 更要做）☐
+
+- [ ] **押金最多 2x 月租**，超过的直接 walk away（加州 AB 12 法案 2024 年起规定上限 1x，新签 lease 可援引；老 lease 多数仍是 2x）
+- [ ] **拿到 itemized 押金扣减条款**写进合同（哪些算"normal wear and tear"不能扣）
+- [ ] **入住前拍 100+ 张照片 + 视频**：每个角落、地板、墙面、电器、卫浴、窗户。云端存证
+- [ ] **入住时和房东一起做 walkthrough**，签 Move-in Inspection Report
+- [ ] **保留所有维修申请记录**（邮件 / app / 短信，留时间戳）
+- [ ] **退房前主动约 walkthrough**，要求房东当场指出问题，给机会自己清理
+- [ ] **退房后 21 天内**未收到押金或 itemized 清单，按加州 Civil Code §1950.5 发 demand letter，可索赔 **2 倍押金 + 实际损失**
+- [ ] 加州维权资源：[Stay Housed LA](https://www.stayhousedla.org/) · [LA County Small Claims Court](https://www.lacourt.org/division/smallclaims/)（押金纠纷 ≤ $12,500 可自己上）
