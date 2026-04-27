@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-04-26　今日新增 2 条**
+**最后更新：2026-04-27　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -102,6 +102,12 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-04-26] [Hub LA Figueroa — Studio $1,510–$1,640](https://huboncampus.com/figueroa/) — Studio 489–501 sq ft / 起租 **2026-08-21**（Fall 2026 已确认）/ 来源: WebSearch / 地址 2722 S. Figueroa St., LA 90007（USC 校园旁步行可达）；管理方 Hub on Campus（同品牌 Hub LA Coliseum 押金 ≈1x 月租）；非黑名单；建议签约前确认押金倍数；[Apartments.com 页面](https://www.apartments.com/hub-la-figueroa-los-angeles-ca/w1e3n3l/) · [Yelp](https://www.yelp.com/biz/hub-on-campus-figueroa-los-angeles)
 - [2026-04-26] [Hoover Square / The Signature（新楼盘）— Studio $1,950+](https://hooversquareusc.com/) — Studio 起（含 8BR townhome 多型）/ 起租 **2026-08**（Fall 2026 预租中）/ 来源: WebSearch / 地址 2601 S. Hoover St., LA 90007（USC DPS Zone 内）；全新楼盘上 Amber Student 平台（国际生友好信号）；管理方 PSPM（未见重大投诉）；无口碑历史需谨慎，建议实地查房并书面确认押金条款；⚠️ 刚开盘无口碑，签约前核实
+
+### 自动监控新增（2026-04-27）
+
+- [2026-04-27] [Trojan Plaza (Trojan Buildings) — Studio $1,960+](https://www.trojanbuildings.com/trojan-plaza) — Studio 340–450 sq ft / ⚠️ 问起租日期（官网显示 2026-27 预租中）/ 来源: WebSearch / 地址 2727 Ellendale Pl, LA 90007（USC 步行约 5 min）；管理方 Trojan Buildings（非黑名单，USC 周边多栋物业）；旗下还有 Ellendale Trojan（1bd/2bd）和 Trojan Spaces（1bd/2bd）；联系时需明确问无 SSN 押金政策；⚠️ 官网无具体发布日期，不计入今日新增 — [官网总入口](https://www.trojanbuildings.com/)
+- [2026-04-27] [The Trojan House (BRAD Management) — 问价](https://www.southerncalstudenthousing.com/trojan-house) — Studio / 1bd / ⚠️ 问起租日期（2026-27 预租中）/ 来源: WebSearch / University Park DPS Zone 内，Ellendale Place 旁；含 W/D、A/C、木地板；管理方 BRAD Management（非黑名单）；⚠️ 官网无具体发布日期，不计入今日新增
+- [2026-04-27] [Newly Renovated Studios & 1bd near USC & DTLA — $1,395+](https://losangeles.craigslist.org/wst/apa/d/los-angeles-newly-renovated-studios-one/7927912363.html) — Studio $1,395 / 1bd $1,699 / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / 地址疑为 West Adams 或 University Park 区（USC 10 min 内）；新装修；WebFetch 403 无法核实详情，发布日期未确认，不计入今日新增
 
 > ⚠️ **黑名单警报 — The Shrine Collection**（shrinecollection.com）已确认为 **Stuho 旗下物业**（stuho.com 直接挂牌 id=177），已列入黑名单。如在其他平台搜到该楼名请直接跳过。
 
