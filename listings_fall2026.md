@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-04-28　今日新增 0 条**
+**最后更新：2026-04-29　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -67,6 +67,7 @@ USC 学生有 **U-Pass**，免费坐 LA Metro 所有 rail/bus。USC 自己的校
 | **Trojan Palms** ⚠️验证中 | USC 旁 | — | — | 没找到大投诉，自查为准 ([网站](https://www.trojanpalms.com/)) |
 | **Symphony Residential** ⚠️验证中 | 多处 | — | — | 商用 REIT，标准押金政策，[官网](https://www.symphonyresidential.com/) 查物业 |
 | **University Gateway** ⚠️合约绑定 USC | 3335 S Figueroa | — | — | 走 USC 学生账户billing，部分名额走 USC Housing 系统；自由度低 |
+| **Tuscany Apartments** ⚠️验证中 | 3770 S Figueroa St | — | $3,598/mo（私人）或 $1,799（合住） | Greystar 管理（大 REIT）；步行 5 min；Fall 2026-2027 起租 **2026-08-15**；全装修含家具；Amber Student 上架（国际生友好信号）；签前问押金政策 ([官网](https://tuscanyonfig.com/)) · ([Yelp](https://www.yelp.com/biz/tuscany-apartments-los-angeles)) |
 
 ### 为什么不推荐其他"学生公寓"品牌？
 
@@ -110,6 +111,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-04-27] [Newly Renovated Studios & 1bd near USC & DTLA — $1,395+](https://losangeles.craigslist.org/wst/apa/d/los-angeles-newly-renovated-studios-one/7927912363.html) — Studio $1,395 / 1bd $1,699 / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / 地址疑为 West Adams 或 University Park 区（USC 10 min 内）；新装修；WebFetch 403 无法核实详情，发布日期未确认，不计入今日新增
 - [2026-04-27] [Heritage Student Housing USC — 问价](https://heritagestudenthousing.com/) — Studio / 1bd / 多房型 / ⚠️ 问起租日期 + Studio 具体租金 / 来源: WebSearch / USC DPS Zone 内 6 处物业（624 W 28th St / 2353 Portland / 1275 W 30th 等），距 USC 步行 3–8 min；**押金仅 $850 固定**（有担保人可降至 $450）— 远低于 2x/3x；Fall 2026 现开租；**5月1日前入住可免6–7月房租**；Heritage 2353 明确有 Studio 户型；非黑名单；⚠️ 无 SSN 具体政策需电话确认 (213) 864-8982；不计入今日新增 — [Yelp（4月更新）](https://www.yelp.com/biz/heritage-student-housing-los-angeles) · [Heritage 2353](https://www.universityliving.com/united-states/los-angeles/property/2353-portland) · [Heritage 1275](https://heritagestudenthousing.com/1275-west-30th-usc-student-housing-apartments/)
 - [2026-04-27] [Menlo Apartments USC — Early Bird 2026-27](https://www.menlousc.net/) — Studio 起（另有 2B/3B 户型）/ ⚠️ 问起租日期 + 具体价格 + 押金 / 来源: WebSearch / 地址 2726–2816 Menlo Ave, LA 90007（USC Tram 站台门口，步行约 10 min）；管理方 Menlo LLC（非黑名单；注意：Stuho 另有物业在同街 2640/2646/2658 号，与本楼无关）；2026-27 Early Bird Discount 中；⚠️ 无 SSN 政策需电话确认 (323) 733-6157；不计入今日新增 — [Studio 户型页](https://www.menlousc.net/3b2b-copy) · [Apartments.com](https://www.apartments.com/menlo-apartments-los-angeles-ca/1hnd7x5/)
+
+### 自动监控新增（2026-04-29）
+
+- [2026-04-29] [Tuscany Apartments (Greystar) — 1B1B $3,598/mo private；$1,799 shared](https://tuscanyonfig.com/floor-plans/) — 1B1B（无 studio 户型）/ 起租 **2026-08-15**（Fall 2026-2027 Jul 31 止，已确认）/ 来源: WebSearch + Greystar.com + Yelp（4月更新）/ 地址 3770 S Figueroa St, LA 90007（USC DPS Zone 附近，步行约 5 min）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；全装修含家具；Amber Student 上架（国际生友好平台）；⚠️ 官网 403 无法核实详情，价格来自 Google 摘要，签约前书面确认押金倍数；⚠️ 无 SSN 政策需直接问 Greystar leasing；不计入今日新增（无 Craigslist 发布日期）
 
 > ⚠️ **黑名单警报 — The Shrine Collection**（shrinecollection.com）已确认为 **Stuho 旗下物业**（stuho.com 直接挂牌 id=177），已列入黑名单。如在其他平台搜到该楼名请直接跳过。
 
