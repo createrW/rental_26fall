@@ -147,6 +147,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [The Rise Koreatown](https://liverisekoreatown.com/)
 - [sageLA (200 N Vermont Ave) — $2,198–$4,889](https://usc.uloop.com/housing/view.php/2683841811/sageLA---Brand-New) — Brand new
 
+### 自动监控新增（2026-04-29）
+
+- [2026-04-29] [Nari Koreatown (Harbor Group) — Studio $2,430+](https://www.harborgroupmanagement.com/apartments/ca/los-angeles/koreatown-nari) — Studio/1B1B/2BR / ⚠️ 问起租日期 / 来源: WebSearch / 地址 3150 Wilshire Blvd, LA 90010（Koreatown 核心，近 Metro D Line Vermont/Wilshire 站，E Line 可达 USC 约 30 min）；Harbor Group Management（大型 REIT，非黑名单）；studio $2,430+、1BR $2,470+；当前促销最高 6 周免租；价格偏高，签约前务必问无 SSN 押金倍数；⚠️ 无具体发布日期，不计今日新增 — [Apartments.com](https://www.apartments.com/nari-koreatown-los-angeles-ca/vlvglee/)
+
 ---
 
 ## 3. DTLA（次首选 — E Line 直达 USC ~15 min）
@@ -273,3 +277,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [ ] **退房前主动约 walkthrough**，要求房东当场指出问题，给机会自己清理
 - [ ] **退房后 21 天内**未收到押金或 itemized 清单，按加州 Civil Code §1950.5 发 demand letter，可索赔 **2 倍押金 + 实际损失**
 - [ ] 加州维权资源：[Stay Housed LA](https://www.stayhousedla.org/) · [LA County Small Claims Court](https://www.lacourt.org/division/smallclaims/)（押金纠纷 ≤ $12,500 可自己上）
+
+---
+
+## 自动监控 - 其他区域
+
+### 自动监控新增（2026-04-29）
+
+- [2026-04-29] [E On Hoover — Studio $1,596+](https://www.eonhooverla.com/) — Studio/1BR / ⚠️ 问起租日期 / 来源: WebSearch / 地址 1157 S Hoover St, LA 90006（Pico-Union 区，USC DPS Zone 以北约 1.5 英里）；品牌新楼盘，W/D in unit，studio $1,596–$1,725/mo，1BR $1,867/mo；USC off-campus housing 数据库（nup.och101.com）已收录；从 Pico-Union 到 USC 可乘公交约 30–40 分钟；⚠️ 无 SSN 押金政策需直接问 leasing；⚠️ 无具体发布日期，不计今日新增 — [Apartments.com](https://www.apartments.com/e-on-hoover-los-angeles-ca/8yjv9j0/) · [Zumper](https://www.zumper.com/apartment-buildings/p869113/e-on-hoover-pico-union-los-angeles-ca)
