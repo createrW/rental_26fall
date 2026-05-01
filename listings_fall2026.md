@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-04-30　今日新增 0 条**
+**最后更新：2026-05-01　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -60,7 +60,7 @@ USC 学生有 **U-Pass**，免费坐 LA Metro 所有 rail/bus。USC 自己的校
 
 | 名称 | 地址 | Studio | 1B1B | 备注 |
 |---|---|---|---|---|
-| **Tessera USC** ⚠️验证中 | 1069 Exposition Blvd | $1,100+（合租）| — | 步行 5 min；by-the-bed；新楼无长期口碑，签约前 Yelp 上查 |
+| **[Tessera USC](https://www.tesserausc.com/)** ⚠️验证中 | 1007 W 30th St, LA 90007 | $1,025+（合租）/ $1,950+（私有单间）| Studio 起 | 步行 5 min；个人 lease；Fall 2026 预租中；[平面图](https://www.tesserausc.com/floor-plans)；[Yelp](https://www.yelp.com/biz/tessera-los-angeles-2) 查评价 |
 | **The District at USC** ⚠️验证中 | USC DPS Zone | $2,385+ | $3,600+（2BR） | 含家具 luxury；查 Yelp 评分再签 |
 | **Hub LA Coliseum** ⚠️验证中 | 紧邻 Coliseum | $1,715+ | $2,295+ | 大型学生楼，押金等于月租 ≈ 1x；Daily Trojan 提过 move-in 慢但无押金问题报道；签前查最新评价 |
 | **Robinson Residences** ✅相对靠谱 | 多处 | — | — | 1972 起经营，无重大投诉；偏老房但口碑稳 ([网站](https://robinsonresidences.com/about-us/)) |
@@ -117,6 +117,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-04-29] [Tuscany Apartments (Greystar) — 1B1B $3,598/mo private；$1,799 shared](https://tuscanyonfig.com/floor-plans/) — 1B1B（无 studio 户型）/ 起租 **2026-08-15**（Fall 2026-2027 Jul 31 止，已确认）/ 来源: WebSearch + Greystar.com + Yelp（4月更新）/ 地址 3770 S Figueroa St, LA 90007（USC DPS Zone 附近，步行约 5 min）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；全装修含家具；Amber Student 上架（国际生友好平台）；⚠️ 官网 403 无法核实详情，价格来自 Google 摘要，签约前书面确认押金倍数；⚠️ 无 SSN 政策需直接问 Greystar leasing；不计入今日新增（无 Craigslist 发布日期）
 
 > ⚠️ **黑名单警报 — The Shrine Collection**（shrinecollection.com）已确认为 **Stuho 旗下物业**（stuho.com 直接挂牌 id=177），已列入黑名单。如在其他平台搜到该楼名请直接跳过。
+
+### 自动监控新增（2026-05-01）
+
+- [2026-05-01] [City Park Apartments USC（中低收入保障项目 Studio/1B1B）— 问价](https://www.cityparkusc.com/1-bed-1-bathstudio-lowincome-program) — Studio / 1B1B（限中低收入项目名额）/ ⚠️ 问起租日期 / 来源: WebSearch / 地址 1246 W 30th St, LA 90007（USC 步行约 10 min）；10 层公寓楼，水电气/有线网全包；LAHD 认证中低收入项目：名额给收入 < $70k 的住户，须有工作/实习收入 ≥ 2x 月租；⚠️ **F-1 无 SSN 申请政府保障性住房资格需致电确认**；市价单元均为 2B+ 大户型；⚠️ 无具体 studio 租价，不计入今日新增（无发布日期）— [Apartments.com](https://www.apartments.com/city-park-apartments-los-angeles-ca/hx8k4z2/) · [中低收入项目详情](https://www.cityparkusc.com/moderate-and-low-income-program)
 
 ---
 
