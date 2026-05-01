@@ -121,6 +121,8 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-01）
 
 - [2026-05-01] [City Park Apartments USC（中低收入保障项目 Studio/1B1B）— 问价](https://www.cityparkusc.com/1-bed-1-bathstudio-lowincome-program) — Studio / 1B1B（限中低收入项目名额）/ ⚠️ 问起租日期 / 来源: WebSearch / 地址 1246 W 30th St, LA 90007（USC 步行约 10 min）；10 层公寓楼，水电气/有线网全包；LAHD 认证中低收入项目：名额给收入 < $70k 的住户，须有工作/实习收入 ≥ 2x 月租；⚠️ **F-1 无 SSN 申请政府保障性住房资格需致电确认**；市价单元均为 2B+ 大户型；⚠️ 无具体 studio 租价，不计入今日新增（无发布日期）— [Apartments.com](https://www.apartments.com/city-park-apartments-los-angeles-ca/hx8k4z2/) · [中低收入项目详情](https://www.cityparkusc.com/moderate-and-low-income-program)
+- [2026-05-01] [University Court (CBM) — Studio $1,900 / 1bd $1,900–$2,300](https://livecbm.com/building-details/usc-student-housing-university-court-1147-w-24th-st-los-angeles-ca-90007) — Studio/1bd / ⚠️ 问起租日期 / 来源: WebSearch / 地址 1147–1151½ W 24th St, LA 90007（USC DPS Patrol Zone 内，步行约 10 min）；管理方 Community Builders Management（CBM，owner-operated，经营 10 年+，非黑名单）；砖木门控社区，studio 约 430–550 sq ft；DPS 24/7 巡逻；入住最多 2 人/卧室（+$150/人）；⚠️ 无 SSN 押金政策需直接问 CBM；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/university-court-los-angeles-ca/xhs3tgm/)
+- [2026-05-01] [West 27th Place (Greystar) — Studio $1,525+ / 1bd $1,700+](https://www.west27thplace.com/) — Studio/1bd/2bd/4bd / 起租 **2026-08-20**（Fall 2026 已确认）/ 来源: WebSearch / 地址 2700 S Figueroa St, LA 90007（USC 步行约 14 min，Figueroa 大街 USC 正南）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；全装修含家具，W/D in unit，私人卧室 en-suite；现开 Fall 2026 预租，可选 5 或 10 个月 lease；⚠️ 无 SSN 押金政策需直接问 Greystar；不计入今日新增（无具体发布日期）— [Greystar 页面](https://www.greystar.com/en/properties/los-angeles-ca/west-27th-apartments) · [Apartments.com](https://www.apartments.com/west-27th-place-los-angeles-ca/qnbz08w/)
 
 ---
 
@@ -154,6 +156,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-04-29）
 
 - [2026-04-29] [Nari Koreatown (Harbor Group) — Studio $2,430+](https://www.harborgroupmanagement.com/apartments/ca/los-angeles/koreatown-nari) — Studio/1B1B/2BR / ⚠️ 问起租日期 / 来源: WebSearch / 地址 3150 Wilshire Blvd, LA 90010（Koreatown 核心，近 Metro D Line Vermont/Wilshire 站，E Line 可达 USC 约 30 min）；Harbor Group Management（大型 REIT，非黑名单）；studio $2,430+、1BR $2,470+；当前促销最高 6 周免租；价格偏高，签约前务必问无 SSN 押金倍数；⚠️ 无具体发布日期，不计今日新增 — [Apartments.com](https://www.apartments.com/nari-koreatown-los-angeles-ca/vlvglee/)
+
+### 自动监控新增（2026-05-01）
+
+- [2026-05-01] [Lux Lofts LA — Studio $2,095+（含优惠）](https://www.luxloftsla.com/) — Studio loft / ⚠️ 问起租日期 / 来源: WebSearch / 地址 3279 W San Marino St, LA 90006（Koreatown 核心，近 Vermont/Wilshire Metro 站，E Line 可达 USC 约 30 min）；2025 年竣工全新 30 unit 精品楼；Studio 450–500 sq ft，W/D in unit，落地卷帘窗，迷你分体空调；原价 $2,395+，当前促销含第 13 个月免租（折合约 $2,195/月）；非黑名单；⚠️ 无 SSN 押金政策需直接询问（luxloftsla@gmail.com / (424) 274-2089）；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/lux-lofts-3279-san-marino-st-los-angeles-ca/bz6w31b/) · [Craigslist 历史帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-stunning-brand-new-1bd-1ba/7871387593.html)
 
 ---
 
