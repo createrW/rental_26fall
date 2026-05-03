@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-02　今日新增 0 条**
+**最后更新：2026-05-03　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -118,6 +118,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 > ⚠️ **黑名单警报 — The Shrine Collection**（shrinecollection.com）已确认为 **Stuho 旗下物业**（stuho.com 直接挂牌 id=177），已列入黑名单。如在其他平台搜到该楼名请直接跳过。
 
+### 自动监控新增（2026-05-03）
+
+- [2026-05-03] [The Standard at Los Angeles (Landmark Properties) — 问价](https://www.thestandardlosangeles.com/) — Studio / 1bd / 2bd / … / 起租 **2026-08**（全新楼盘，专门面向 Fall 2026 开业）/ 来源: WebSearch / 地址 3900 S Figueroa St, LA（Exposition Park，USC 步行约 5–7 min）；429 units / 1,284 beds，私人 studio 到 5BD，屋顶泳池 + 健身中心 + 60,000 sq ft 设施空间；管理方 Landmark Properties（全国学生公寓开发商，非黑名单）；官网已上线，预租进行中；⚠️ 无 SSN 押金政策需直接问 leasing；⚠️ 官网 403 无法核实价格，建议直接联系获取 studio 报价；不计入今日新增 — [Landmark 项目页](https://www.landmarkproperties.com/landmark-properties-breaks-ground-on-1284-bed-student-housing-community-steps-from-the-university-of-southern-california/) · [Urbanize LA](https://la.urbanize.city/post/large-mixed-use-complex-takes-shape-3900-s-figueroa-st-exposition-park)
+
 ### 自动监控新增（2026-05-01）
 
 - [2026-05-01] [City Park Apartments USC（中低收入保障项目 Studio/1B1B）— 问价](https://www.cityparkusc.com/1-bed-1-bathstudio-lowincome-program) — Studio / 1B1B（限中低收入项目名额）/ ⚠️ 问起租日期 / 来源: WebSearch / 地址 1246 W 30th St, LA 90007（USC 步行约 10 min）；10 层公寓楼，水电气/有线网全包；LAHD 认证中低收入项目：名额给收入 < $70k 的住户，须有工作/实习收入 ≥ 2x 月租；⚠️ **F-1 无 SSN 申请政府保障性住房资格需致电确认**；市价单元均为 2B+ 大户型；⚠️ 无具体 studio 租价，不计入今日新增（无发布日期）— [Apartments.com](https://www.apartments.com/city-park-apartments-los-angeles-ca/hx8k4z2/) · [中低收入项目详情](https://www.cityparkusc.com/moderate-and-low-income-program)
@@ -156,6 +160,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-04-29）
 
 - [2026-04-29] [Nari Koreatown (Harbor Group) — Studio $2,430+](https://www.harborgroupmanagement.com/apartments/ca/los-angeles/koreatown-nari) — Studio/1B1B/2BR / ⚠️ 问起租日期 / 来源: WebSearch / 地址 3150 Wilshire Blvd, LA 90010（Koreatown 核心，近 Metro D Line Vermont/Wilshire 站，E Line 可达 USC 约 30 min）；Harbor Group Management（大型 REIT，非黑名单）；studio $2,430+、1BR $2,470+；当前促销最高 6 周免租；价格偏高，签约前务必问无 SSN 押金倍数；⚠️ 无具体发布日期，不计今日新增 — [Apartments.com](https://www.apartments.com/nari-koreatown-los-angeles-ca/vlvglee/)
+
+### 自动监控新增（2026-05-03）
+
+- [2026-05-03] [Kenmore Park Apartments — Studio $1,395+](https://www.kenmoreparkapts.com/) — Studio 425 sq ft / ⚠️ 问起租日期 / 来源: WebSearch / 地址 245 N Kenmore Ave, LA 90004（Koreatown 北部，近 Beverly Blvd；距 Vermont/Beverly Metro B线 约 0.3 mile，步行 → 换乘 → 7th St → E Line 至 USC，约 35–40 min）；当前显示 10 个单元可选；独立管理（非黑名单）；⚠️ K-town 较低价 studio 选项（$1,395 起）；⚠️ 无 SSN 押金政策需直接询问；不计入今日新增 — [Apartments.com](https://www.apartments.com/kenmore-park-apartments-los-angeles-ca/crtpq6e/)
+- [2026-05-03] [Wilshire Vermont (Greystar) — Studio $2,010+](https://www.greystar.com/wilshire-vermont-los-angeles-ca/p_12701) — Studio 503 sq ft / ⚠️ 问起租日期 / 来源: WebSearch（Yelp 2026 年 4 月更新）/ 地址 3183 Wilshire Blvd, LA 90010（Koreatown 核心；坐落在 Wilshire/Vermont Metro B/D Line 站台旁；→ 7th St/Metro Center → E Line 至 USC 约 30–35 min）；当前促销：**1 个月免租 + 6 个月免费网络 + $500 look & lease**（折合月租有实质优惠）；Greystar 管理（大 REIT，通常 ISP 友好，非黑名单）；⚠️ 无 SSN 押金政策需直接问 Greystar；不计入今日新增 — [Yelp](https://www.yelp.com/biz/wilshire-vermont-luxury-apartments-los-angeles) · [Apartments.com](https://www.apartments.com/wilshire-vermont-los-angeles-ca/1kzq096/)
 
 ### 自动监控新增（2026-05-01）
 
