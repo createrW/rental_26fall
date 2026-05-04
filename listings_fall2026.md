@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-03　今日新增 0 条**
+**最后更新：2026-05-04　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -128,6 +128,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-01] [University Court (CBM) — Studio $1,900 / 1bd $1,900–$2,300](https://livecbm.com/building-details/usc-student-housing-university-court-1147-w-24th-st-los-angeles-ca-90007) — Studio/1bd / ⚠️ 问起租日期 / 来源: WebSearch / 地址 1147–1151½ W 24th St, LA 90007（USC DPS Patrol Zone 内，步行约 10 min）；管理方 Community Builders Management（CBM，owner-operated，经营 10 年+，非黑名单）；砖木门控社区，studio 约 430–550 sq ft；DPS 24/7 巡逻；入住最多 2 人/卧室（+$150/人）；⚠️ 无 SSN 押金政策需直接问 CBM；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/university-court-los-angeles-ca/xhs3tgm/)
 - [2026-05-01] [West 27th Place (Greystar) — Studio $1,525+ / 1bd $1,700+](https://www.west27thplace.com/) — Studio/1bd/2bd/4bd / 起租 **2026-08-20**（Fall 2026 已确认）/ 来源: WebSearch / 地址 2700 S Figueroa St, LA 90007（USC 步行约 14 min，Figueroa 大街 USC 正南）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；全装修含家具，W/D in unit，私人卧室 en-suite；现开 Fall 2026 预租，可选 5 或 10 个月 lease；⚠️ 无 SSN 押金政策需直接问 Greystar；不计入今日新增（无具体发布日期）— [Greystar 页面](https://www.greystar.com/en/properties/los-angeles-ca/west-27th-apartments) · [Apartments.com](https://www.apartments.com/west-27th-place-los-angeles-ca/qnbz08w/)
 
+### 自动监控新增（2026-05-04）
+
+- [2026-05-04] [Remodeled Studio on Ellendale Place — Walk to USC — $1,745](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-studio-on/7835578033.html) — Studio 330 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Ellendale Place（USC 步行可达，与 Trojan Plaza 同街）；重装 studio，West Adams/University Park 边界；WebFetch 403 无法核实发布日期；不计入今日新增
+- [2026-05-04] [E On Adams — Studio + 1bd（West Adams）— 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-brand-new-luxury-studio-in/7834269952.html) — Studio / 1bd / ⚠️ 问起租日期（**1bd May 8 起租已确认**）/ 来源: WebSearch/Craigslist-wst / 地址 5181 W Adams Blvd（West Adams，USC 步行约 15–20 min）；全新楼，健身中心 + SS Appliances；1bd 另见 [7847893186](https://losangeles.craigslist.org/wst/apa/d/los-angeles-west-adams-near-koreatown/7847893186.html) / [7848058382](https://losangeles.craigslist.org/wst/apa/d/los-angeles-brand-new-bedroom-in-west/7848058382.html)；非黑名单；不计入今日新增
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -170,6 +175,15 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-01] [Lux Lofts LA — Studio $2,095+（含优惠）](https://www.luxloftsla.com/) — Studio loft / ⚠️ 问起租日期 / 来源: WebSearch / 地址 3279 W San Marino St, LA 90006（Koreatown 核心，近 Vermont/Wilshire Metro 站，E Line 可达 USC 约 30 min）；2025 年竣工全新 30 unit 精品楼；Studio 450–500 sq ft，W/D in unit，落地卷帘窗，迷你分体空调；原价 $2,395+，当前促销含第 13 个月免租（折合约 $2,195/月）；非黑名单；⚠️ 无 SSN 押金政策需直接询问（luxloftsla@gmail.com / (424) 274-2089）；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/lux-lofts-3279-san-marino-st-los-angeles-ca/bz6w31b/) · [Craigslist 历史帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-stunning-brand-new-1bd-1ba/7871387593.html)
 
+### 自动监控新增（2026-05-04）
+
+- [2026-05-04] [Brand New 1+1 Koreatown Adjacent — Rooftop Deck + Recreation Room](https://losangeles.craigslist.org/lac/apa/d/los-angeles-recreation-room-rooftop/7921263923.html) — 1B1B 570 sq ft / ⚠️ 问起租日期（搜索摘要显示 Apr 12 起可入住，可能仍有空位）/ 来源: WebSearch/Craigslist-lac / K-town 附近；全新楼，Rooftop Deck + Recreation Room；W/D in unit，detached garage，A/C；非黑名单；WebFetch 403；不计入今日新增
+- [2026-05-04] [Studio KTOWN/DTLA — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-cozy-studio-apartment-ktown/7878747207.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town 与 DTLA 交界；WebFetch 403；不计入今日新增
+- [2026-05-04] [Remodeled Studio Suite Koreatown/DTLA — SS Appliances — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-studio-suite-in/7857654698.html) — Studio / ⚠️ 问起租日期（搜索摘要显示 Jul 5 起可入住，可尝试谈 8/20）/ 来源: WebSearch/Craigslist-lac / K-town 区域；SS Appliances；WebFetch 403；不计入今日新增
+- [2026-05-04] [Koreatown Apts — Studio $1,400 / 1bd $1,700（房东付水电气）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-apartments-for/7856864730.html) — Studio/Bachelor/1bd / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 2700 San Marino St, K-town；**房东付水电气**（实际净月租更低）；WebFetch 403；不计入今日新增
+- [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
+- [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
+
 ---
 
 ## 3. DTLA（次首选 — E Line 直达 USC ~15 min）
@@ -193,6 +207,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [Brand New 1+1 Near DTLA + K-town — $2,150](https://losangeles.craigslist.org/lac/apa/d/los-angeles-brand-new-11-with-washer/7929866058.html)
 - [Modern Studio Near DTLA W/D — $2,299](https://losangeles.craigslist.org/wst/apa/d/los-angeles-modern-studio-near-dtla/7927808479.html)（West Adams）
 - [Artist Loft Studio DTLA/Westlake — $2,025](https://losangeles.craigslist.org/lac/apa/d/los-angeles-artist-loft-studio-in-dtla/7929676514.html)
+
+### 自动监控新增（2026-05-04）
+
+- [2026-05-04] [Studio in DTLA/South Park — 4 Weeks Free — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-in-dtla-south-park/7864419351.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA South Park；大型 116-unit 楼盘（loft 风格），高天花板 + walk-in closet + SS Appliances；当前促销 **4 周免租**；WebFetch 403；不计入今日新增
 
 ---
 
