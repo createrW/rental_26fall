@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-07　今日新增 0 条**
+**最后更新：2026-05-08　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -127,6 +127,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-01] [City Park Apartments USC（中低收入保障项目 Studio/1B1B）— 问价](https://www.cityparkusc.com/1-bed-1-bathstudio-lowincome-program) — Studio / 1B1B（限中低收入项目名额）/ ⚠️ 问起租日期 / 来源: WebSearch / 地址 1246 W 30th St, LA 90007（USC 步行约 10 min）；10 层公寓楼，水电气/有线网全包；LAHD 认证中低收入项目：名额给收入 < $70k 的住户，须有工作/实习收入 ≥ 2x 月租；⚠️ **F-1 无 SSN 申请政府保障性住房资格需致电确认**；市价单元均为 2B+ 大户型；⚠️ 无具体 studio 租价，不计入今日新增（无发布日期）— [Apartments.com](https://www.apartments.com/city-park-apartments-los-angeles-ca/hx8k4z2/) · [中低收入项目详情](https://www.cityparkusc.com/moderate-and-low-income-program)
 - [2026-05-01] [University Court (CBM) — Studio $1,900 / 1bd $1,900–$2,300](https://livecbm.com/building-details/usc-student-housing-university-court-1147-w-24th-st-los-angeles-ca-90007) — Studio/1bd / ⚠️ 问起租日期 / 来源: WebSearch / 地址 1147–1151½ W 24th St, LA 90007（USC DPS Patrol Zone 内，步行约 10 min）；管理方 Community Builders Management（CBM，owner-operated，经营 10 年+，非黑名单）；砖木门控社区，studio 约 430–550 sq ft；DPS 24/7 巡逻；入住最多 2 人/卧室（+$150/人）；⚠️ 无 SSN 押金政策需直接问 CBM；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/university-court-los-angeles-ca/xhs3tgm/)
 - [2026-05-01] [West 27th Place (Greystar) — Studio $1,525+ / 1bd $1,700+](https://www.west27thplace.com/) — Studio/1bd/2bd/4bd / 起租 **2026-08-20**（Fall 2026 已确认）/ 来源: WebSearch / 地址 2700 S Figueroa St, LA 90007（USC 步行约 14 min，Figueroa 大街 USC 正南）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；全装修含家具，W/D in unit，私人卧室 en-suite；现开 Fall 2026 预租，可选 5 或 10 个月 lease；⚠️ 无 SSN 押金政策需直接问 Greystar；不计入今日新增（无具体发布日期）— [Greystar 页面](https://www.greystar.com/en/properties/los-angeles-ca/west-27th-apartments) · [Apartments.com](https://www.apartments.com/west-27th-place-los-angeles-ca/qnbz08w/)
+
+### 自动监控新增（2026-05-08）
+
+- [2026-05-08] [Moo Housing USC DPS Zone — 私人房间 from $1,049/月（全含水电气网）](https://www.moohousing.com/usc-student-housing?areas=USC) — 私人 lease / ⚠️ 问起租日期 + 确认是否有独立 Studio/1B1B（非合住）/ 来源: WebSearch / 地址 1186 W 37th Pl 等多处（USC DPS Patrol Zone 内，USC 步行约 5 min）；全装修含家具，W/D in unit，水电气网全包（$1,049–$1,289/月为一体价）；经营 USC 留学生租房自 2016 年，官网明确提 international students；**⚠️ 价格结构为"co-living 私人卧室"非独立 studio，签约前务必确认户型（是否为完整独立单间）**；未见无 SSN 押金政策，建议直接问 leasing；非黑名单；不计入今日新增（无具体发布日期）— [具体物业页](https://www.moohousing.com/properties/1186-w-37th-pl) · [2026 USC 指南](https://www.moohousing.com/blogs/usc-off-campus-housing-2026)
 
 ### 自动监控新增（2026-05-04）
 
