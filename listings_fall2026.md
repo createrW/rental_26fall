@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-10　今日新增 0 条**
+**最后更新：2026-05-11　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -330,6 +330,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-04-29）
 
 - [2026-04-29] [E On Hoover — Studio $1,596+](https://www.eonhooverla.com/) — Studio/1BR / ⚠️ 问起租日期 / 来源: WebSearch / 地址 1157 S Hoover St, LA 90006（Pico-Union 区，USC DPS Zone 以北约 1.5 英里）；品牌新楼盘，W/D in unit，studio $1,596–$1,725/mo，1BR $1,867/mo；USC off-campus housing 数据库（nup.och101.com）已收录；从 Pico-Union 到 USC 可乘公交约 30–40 分钟；⚠️ 无 SSN 押金政策需直接问 leasing；⚠️ 无具体发布日期，不计今日新增 — [Apartments.com](https://www.apartments.com/e-on-hoover-los-angeles-ca/8yjv9j0/) · [Zumper](https://www.zumper.com/apartment-buildings/p869113/e-on-hoover-pico-union-los-angeles-ca)
+
+### 自动监控新增（2026-05-11）
+
+- [2026-05-11] [City Park View — Studio $1,450+](https://www.liveatcityparkview.com/floorplans) — Studio 500 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 354 S La Fayette Park Pl, LA 90057（Westlake/Rampart Village，近 Koreatown 西侧，步行至 Wilshire/Vermont Metro 约 15 min，E Line → USC 约 35 min）；SS 不锈钢电器、A/C、阳台/露台、泳池、洗衣房、EV 充电车位；宠物友好；非黑名单；⚠️ 无 SSN 押金政策需直接询问；⚠️ 不计今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/city-park-view-apartments-los-angeles-ca/jztp574/)
 
 ### 自动监控新增（2026-04-30）
 
