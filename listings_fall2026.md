@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-14　今日新增 0 条**
+**最后更新：2026-05-15　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -183,6 +183,13 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-01] [Lux Lofts LA — Studio $2,095+（含优惠）](https://www.luxloftsla.com/) — Studio loft / ⚠️ 问起租日期 / 来源: WebSearch / 地址 3279 W San Marino St, LA 90006（Koreatown 核心，近 Vermont/Wilshire Metro 站，E Line 可达 USC 约 30 min）；2025 年竣工全新 30 unit 精品楼；Studio 450–500 sq ft，W/D in unit，落地卷帘窗，迷你分体空调；原价 $2,395+，当前促销含第 13 个月免租（折合约 $2,195/月）；非黑名单；⚠️ 无 SSN 押金政策需直接询问（luxloftsla@gmail.com / (424) 274-2089）；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/lux-lofts-3279-san-marino-st-los-angeles-ca/bz6w31b/) · [Craigslist 历史帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-stunning-brand-new-1bd-1ba/7871387593.html)
 
+### 自动监控新增（2026-05-15）
+
+- [2026-05-15] [Studio near 6th & Normandie K-town — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-studio/7823724847.html) — Studio 371 sq ft 全装修 / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Koreatown 6th & Normandie 附近；WebFetch 403 无法核实发布日期；不计入今日新增
+- [2026-05-15] [Kingsley Tower K-town Studio — ~$1,398（首月免租）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-in-the-heart-of/7821272754.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Koreatown；大型楼盘，SS Appliances + 私人阳台 + Walk-in Closet + 泳池/Spa；WebFetch 403；不计入今日新增
+- [2026-05-15] [Brand New Studio K-town — SS Appliances + Balcony + W/D in Unit — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-in-koreatown-ss/7841358288.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Koreatown；全新 studio，不锈钢电器 + 阳台 + 洗烘一体机；WebFetch 403；不计入今日新增
+- [2026-05-15] [Vive LA K-town — Move-in Specials — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-join-the-vive-la-family/7842127891.html) — Studio/1BR / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Vive LA 旗下（注意：Violet on Virgil 已在本文件，本帖可能为同品牌另一物业，签约前确认地址）；当前 Move-in Specials；WebFetch 403；不计入今日新增
+
 ### 自动监控新增（2026-05-14）
 
 - [2026-05-14] [Violet on Virgil (Vive LA) — Studio $1,635+ / 1BR $1,899+](https://www.apartments.com/violet-on-virgil-los-angeles-ca/rfx7km0/) — Studio/1BR/2BR / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 160 S Virgil Ave, LA 90004（Koreatown 北部；近 Beverly & Virgil；步行约 0.4 mile 至 Metro B/D Line Vermont/Beverly 站；→ 7th St → E Line USC 约 35 min）；Vive LA 旗下双楼盘 302 units；Studio 从 $1,635/月（Koreatown 同类中最低之一）；1BR 从 $1,899/月；当前促销最高 **6 周免租**；泳池 + 健身房 + 社交 lounge；非黑名单；⚠️ 已知 CL post 为春季旧帖，Fall 2026 需致电确认；不计今日新增 — [Yelp（Jan 2026）](https://www.yelp.com/biz/violet-on-virgil-los-angeles) · [Vive LA 官网](https://www.vivela.com/property/violet-on-virgil/) · [联系 (213) 325-1570]
@@ -219,6 +226,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [Brand New 1+1 Near DTLA + K-town — $2,150](https://losangeles.craigslist.org/lac/apa/d/los-angeles-brand-new-11-with-washer/7929866058.html)
 - [Modern Studio Near DTLA W/D — $2,299](https://losangeles.craigslist.org/wst/apa/d/los-angeles-modern-studio-near-dtla/7927808479.html)（West Adams）
 - [Artist Loft Studio DTLA/Westlake — $2,025](https://losangeles.craigslist.org/lac/apa/d/los-angeles-artist-loft-studio-in-dtla/7929676514.html)
+
+### 自动监控新增（2026-05-15）
+
+- [2026-05-15] [1 Bedroom Loft DTLA/Westlake — W/D in Unit + 4 Weeks Free — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bedroom-loft-in-dtla/7823781148.html) — 1BR Loft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA/Westlake 交界（Mercantile Lofts Historic Core 风格）；大户型 loft，W/D in unit，当前 4 周免租；E Line 步行可达 → USC 约 20 min；WebFetch 403；不计入今日新增
+- [2026-05-15] [Ferrante DTLA Luxury — Studio + Library/Massage/Sauna — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-ba-library-massage/7860477023.html) — Studio / 1BR / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA 豪华公寓楼（含图书馆、按摩室、桑拿、Karaoke 室、电影院）；同楼多 unit 挂牌：[1BR](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bd-ba-library-massage/7860684104.html) · [另一 Studio](https://losangeles.craigslist.org/lac/apa/d/los-angeles-library-mens-and-womens/7856390939.html)；WebFetch 403；不计入今日新增
 
 ### 自动监控新增（2026-05-04）
 
