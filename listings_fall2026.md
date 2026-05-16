@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-15　今日新增 0 条**
+**最后更新：2026-05-16　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -231,6 +231,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-15] [1 Bedroom Loft DTLA/Westlake — W/D in Unit + 4 Weeks Free — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bedroom-loft-in-dtla/7823781148.html) — 1BR Loft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA/Westlake 交界（Mercantile Lofts Historic Core 风格）；大户型 loft，W/D in unit，当前 4 周免租；E Line 步行可达 → USC 约 20 min；WebFetch 403；不计入今日新增
 - [2026-05-15] [Ferrante DTLA Luxury — Studio + Library/Massage/Sauna — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-ba-library-massage/7860477023.html) — Studio / 1BR / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA 豪华公寓楼（含图书馆、按摩室、桑拿、Karaoke 室、电影院）；同楼多 unit 挂牌：[1BR](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bd-ba-library-massage/7860684104.html) · [另一 Studio](https://losangeles.craigslist.org/lac/apa/d/los-angeles-library-mens-and-womens/7856390939.html)；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-05-16）
+
+- [2026-05-16] [Mercantile Lofts DTLA — 1BR Live/Work + 1 Month Free — $2,025+](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bedroom-ba-in-downtown-la/7862187184.html) — 1BR Loft（Studio 起，629–1,721 sq ft）/ ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch/Craigslist-lac / 地址 620 S Main St, LA 90014（DTLA Historic Core；步行约 0.5 mile 至 7th St/Metro Center → E Line 至 USC，约 20–25 min）；1907 年建、2011 年翻新历史楼；14 英尺高天花板 + 落地窗 + Live/Work 户型；当前促销 **1 个月免租**；W/D in unit；非黑名单；⚠️ WebFetch 403 无法核实发布日期，不计入今日新增 — [官网](https://www.mercantileloftsla.com/) · [Zumper](https://www.zumper.com/apartment-buildings/p16379/the-mercantile-lofts-downtown-los-angeles-los-angeles-ca)
 
 ### 自动监控新增（2026-05-04）
 
