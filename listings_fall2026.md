@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-16　今日新增 0 条**
+**最后更新：2026-05-17　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -131,6 +131,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-14）
 
 - [2026-05-14] [Jasper (Cityview) — Studio $1,962+ / 1BR $2,192+](https://www.apartments.com/jasper-los-angeles-ca/c74061e/) — Studio 486 sq ft+ / 1BR 起 / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 2528 S Grand Ave, LA 90007（University Park East，Grand Ave & Adams Blvd 路口；USC 步行约 10–12 min，近 Metro E Line Expo/Vermont）；Cityview 开发 296-unit 7层楼，2023年建成；W/D in unit，宠物友好，泳池 + 健身中心 + 公共空间；含 25 个超低收入保障单元；非黑名单；⚠️ 无具体 Craigslist 发布日期，不计今日新增 — [Yelp（May 2026 更新）](https://www.yelp.com/biz/jasper-apartments-los-angeles) · [ApartmentList](https://www.apartmentlist.com/ca/los-angeles/jasper) · [联系 (213) 466-0903]
+
+### 自动监控新增（2026-05-17）
+
+- [2026-05-17] [The 505 (Greystar) — Studio $2,750+ / 1BR $3,000+](https://the505la.com/floorplans/) — Studio/1BR/2BR（371–1,345 sq ft）/ ⚠️ 问起租日期（官网 + Instagram 明确 Fall 2026 预租中）/ 来源: WebSearch / 地址 505 W 31st St, LA 90007（USC DPS Patrol Zone 内，距 USC 步行 0.6 mile / 11 min）；2021 年竣工 7 层 73 units；全装修含家具：55" Smart TV + W/D in unit + SS 电器 + 阳台；社区设施：泳池/Spa/BBQ、健身房 + 瑜伽室、EV 充电、study lounge、商业中心；Greystar 管理（大 REIT，非黑名单，通常 ISP 友好）；Yelp May 2026 已更新；⚠️ 价格偏高（studio $2,750+，1BR $3,000+）；无 SSN 押金政策需直接问 Greystar leasing；不计入今日新增（无具体发布日期）— [Greystar 页面](https://www.greystar.com/properties/los-angeles-ca/the-505) · [Apartments.com](https://www.apartments.com/the-505ca-los-angeles-ca/80cbr71/) · [Yelp](https://www.yelp.com/biz/the-505-los-angeles) · 联系 (323) 892-2418
 
 ### 自动监控新增（2026-05-08）
 
