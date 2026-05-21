@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-20　今日新增 0 条**
+**最后更新：2026-05-21　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -243,6 +243,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-04）
 
 - [2026-05-04] [Studio in DTLA/South Park — 4 Weeks Free — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-in-dtla-south-park/7864419351.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA South Park；大型 116-unit 楼盘（loft 风格），高天花板 + walk-in closet + SS Appliances；当前促销 **4 周免租**；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-05-21）
+
+- [2026-05-21] [The Orsini DTLA — Studio $2,029+](https://losangeles.craigslist.org/lac/apa/d/los-angeles-karaoke-lounge-studio-in/7855668799.html) — Studio 479 sq ft+ / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch/Craigslist-lac / 地址 505 N Figueroa St, LA 90012（DTLA Bunker Hill；步行约 14 min 至 7th St/Metro Center → E Line → USC 约 25 min）；大型奢华社区：Jr. Olympic 泳池 + 屋顶泳池/SPA + Karaoke 室 + 影院 + BBQ；Yelp **2026 年 5 月已更新**（707 条评价），活跃挂牌；非黑名单；Studio 折后约 $2,029–$2,199/月起；⚠️ 之前曾有"4 月前入住 12 周免租"活动，Fall 2026 促销需重新确认；⚠️ 无 SSN 押金政策需直接致电 (213) 267-9137；不计入今日新增 — [官网](https://www.theorsini.com/) · [Apartments.com](https://www.apartments.com/the-orsini-los-angeles-ca/y1q1mqv/) · [Yelp](https://www.yelp.com/biz/orsini-apartments-los-angeles)
 
 ---
 
