@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-24　今日新增 0 条**
+**最后更新：2026-05-25　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -206,6 +206,13 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-04] [Koreatown Apts — Studio $1,400 / 1bd $1,700（房东付水电气）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-apartments-for/7856864730.html) — Studio/Bachelor/1bd / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 2700 San Marino St, K-town；**房东付水电气**（实际净月租更低）；WebFetch 403；不计入今日新增
 - [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
 - [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-05-25）
+
+- [2026-05-25] [Incredible Koreatown Location — Courtyard Plaza — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-incredible-koreatown/7861076568.html) — Studio/1BR / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town 核心；庭院广场（Courtyard Plaza）设计；同楼另帖（健身房 Cardio & Strength Training Equipment）：[7848186944](https://losangeles.craigslist.org/lac/apa/d/los-angeles-incredible-koreatown/7848186944.html)；WebFetch 403 无法核实价格及发布日期；非黑名单；不计入今日新增
+- [2026-05-25] [Arwyn Manor Apts — NY Style — Gorgeous Studio (1920s Art Deco) — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-arwyn-manor-aptsny/7859582931.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；1920 年代 Art Deco 建筑，全面翻新 studio；WebFetch 403 无法核实价格及发布日期；非黑名单；不计入今日新增
+- [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
+- [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
 
 ---
 
