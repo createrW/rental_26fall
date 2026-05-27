@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-26　今日新增 0 条**
+**最后更新：2026-05-27　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -118,6 +118,12 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 > ⚠️ **黑名单警报 — The Shrine Collection**（shrinecollection.com）已确认为 **Stuho 旗下物业**（stuho.com 直接挂牌 id=177），已列入黑名单。如在其他平台搜到该楼名请直接跳过。
 
+### 自动监控新增（2026-05-27）
+
+- [2026-05-27] [Fabulous Apartment New Appliances Steps to USC — ~$1,450](https://losangeles.craigslist.org/lac/apa/d/los-angeles-fabulous-apartment-new/7896675460.html) — Studio / ⚠️ 问起租日期 + 确认价格 / 来源: WebSearch/Craigslist-lac / Steps to USC（DPS Zone 内或附近）；搜索摘要显示 studio $1,450 左右；新电器；WebFetch 403 无法核实发布日期及具体地址；非黑名单；不计入今日新增
+- [2026-05-27] [Galaxy Student Housing — Studio/单间 问价](https://galaxyhousingusa.com/f/usc-student-housing) — Studio / 私人房间 / ⚠️ 问起租日期 + 具体价格 + 押金政策 + 无 SSN 条款 / 来源: WebSearch / USC 校园中心 1–2 个街区（Free Lyft Zone 范围内），步行 5–10 min；Fall 2026 已明确开放预租；网站标注"Affordable"；向 LAPD 报备保安；非黑名单；⚠️ Yelp 评价 Mar 2025 更新，需自查综合口碑；官网无具体价格，建议直接致电或邮件询价；不计入今日新增 — [官网](https://galaxyhousingusa.com/) · [评价页](https://galaxyhousingusa.com/reviews)
+- [2026-05-27] [GF Property Group — Studio/1bd 问价](https://gfpropertygroup.net/apartments/) — Studio/1bd / ⚠️ 问起租日期 + 具体价格 + 押金政策 / 来源: WebSearch / USC 附近（1996 年起经营，家庭自有，多处物业）；Yelp 2026-04 已更新；含 W/D in unit / 高速网络 / 全装厨房；⚠️⚠️ **Yelp 约 2 星、Moldmap 2.7 星（仅 3 条评价，以霉菌/维修评分为主）**——口碑存争议，实地看房时检查墙面/浴室/窗框；押金及无 SSN 政策未知，需直接询问；非黑名单；不计入今日新增 — [官网](https://gfpropertygroup.net/)
+
 ### 自动监控新增（2026-05-03）
 
 - [2026-05-03] [The Standard at Los Angeles (Landmark Properties) — 问价](https://www.thestandardlosangeles.com/) — Studio / 1bd / 2bd / … / 起租 **2026-08**（全新楼盘，专门面向 Fall 2026 开业）/ 来源: WebSearch / 地址 3900 S Figueroa St, LA（Exposition Park，USC 步行约 5–7 min）；429 units / 1,284 beds，私人 studio 到 5BD，屋顶泳池 + 健身中心 + 60,000 sq ft 设施空间；管理方 Landmark Properties（全国学生公寓开发商，非黑名单）；官网已上线，预租进行中；⚠️ 无 SSN 押金政策需直接问 leasing；⚠️ 官网 403 无法核实价格，建议直接联系获取 studio 报价；不计入今日新增 — [Landmark 项目页](https://www.landmarkproperties.com/landmark-properties-breaks-ground-on-1284-bed-student-housing-community-steps-from-the-university-of-southern-california/) · [Urbanize LA](https://la.urbanize.city/post/large-mixed-use-complex-takes-shape-3900-s-figueroa-st-exposition-park)
@@ -173,6 +179,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [Radius Koreatown (680 S New Hampshire Ave)](https://www.equityapartments.com/los-angeles/wilshire-center/radius-koreatown-apartments) — Equity Residential
 - [The Rise Koreatown](https://liverisekoreatown.com/)
 - [sageLA (200 N Vermont Ave) — $2,198–$4,889](https://usc.uloop.com/housing/view.php/2683841811/sageLA---Brand-New) — Brand new
+
+### 自动监控新增（2026-05-27）
+
+- [2026-05-27] [3033 Wilshire (UDR) — Studio $2,099+](https://www.apartments.com/3033-wilshire-los-angeles-ca/gzgnzfx/) — Studio/1BR/2BR / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch + Apartments.com / 地址 3033 Wilshire Blvd, LA 90010（Koreatown 核心；距 Vermont/Wilshire Metro B/D Line 步行约 5 min；→ 7th St → E Line USC 约 30 min）；管理方 UDR（United Dominion Realty Trust，大型 REIT，非黑名单，通常 ISP 友好）；屋顶盐水游泳池 + Sky Lounge + TechnoGym + 24h 礼宾 + 硬木地板 + SS 电器 + walk-in closet；Apartments.com 当前显示 18 个单元可选；曾有促销 $1,000 off（move-in by 5/16，已过期）；⚠️ Studio $2,099+ 价位偏高；⚠️ 无 SSN 押金政策需直接问 UDR；不计入今日新增 — [UDR 官网](https://www.udr.com/los-angeles-apartments/downtown-los-angeles/3033-wilshire/) · [Trulia](https://www.trulia.com/building/3033-wilshire-3033-wilshire-blvd-los-angeles-ca-90010-2738157844)
 
 ### 自动监控新增（2026-04-29）
 
@@ -373,6 +383,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-11）
 
 - [2026-05-11] [City Park View — Studio $1,450+](https://www.liveatcityparkview.com/floorplans) — Studio 500 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 354 S La Fayette Park Pl, LA 90057（Westlake/Rampart Village，近 Koreatown 西侧，步行至 Wilshire/Vermont Metro 约 15 min，E Line → USC 约 35 min）；SS 不锈钢电器、A/C、阳台/露台、泳池、洗衣房、EV 充电车位；宠物友好；非黑名单；⚠️ 无 SSN 押金政策需直接询问；⚠️ 不计今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/city-park-view-apartments-los-angeles-ca/jztp574/)
+
+### 自动监控新增（2026-05-27）
+
+- [2026-05-27] [The Flynn (170 S Mountain View Ave) — Studio $1,195–$1,395](https://losangeles.craigslist.org/lac/apa/d/los-angeles-large-studio-apartments-the/7840354187.html) — Studio（大户型，含独立厨房区）/ ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 170 S Mountain View Ave, LA 90057（Westlake / Echo Park 边界，近 Koreatown 西北侧；Metro D Line→7th St→E Line USC 约 35–40 min）；近期翻新，Scandinavian 风格；vinyl plank 地板，SS 电器，新厨柜台面；Studio 分层：地下室 $1,195/月（+$50 电费）、1楼 $1,250–$1,295、大 studio $1,395；RUBS 水气费约 $75/月；⚠️ **申请要求：700+ 信用分 + 3x 月租收入证明**（F-1 无美国信用史 / 无工资收入 → 申请难度较大，建议问是否接受 Co-Signer 或银行存款代替）；非黑名单；不计入今日新增 — [Rent.com](https://www.rent.com/apartment/170-s-mountain-view-ave-los-angeles-ca-lc5898156) · [RentalSource $1,395](https://www.rentalsource.com/details/170-s-mountain-view-ave-los-angeles-ca-72501664/)
 
 ### 自动监控新增（2026-04-30）
 
