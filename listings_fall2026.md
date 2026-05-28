@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-27　今日新增 0 条**
+**最后更新：2026-05-28　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -150,6 +150,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-04] [Remodeled Studio on Ellendale Place — Walk to USC — $1,745](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-studio-on/7835578033.html) — Studio 330 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Ellendale Place（USC 步行可达，与 Trojan Plaza 同街）；重装 studio，West Adams/University Park 边界；WebFetch 403 无法核实发布日期；不计入今日新增
 - [2026-05-04] [E On Adams — Studio + 1bd（West Adams）— 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-brand-new-luxury-studio-in/7834269952.html) — Studio / 1bd / ⚠️ 问起租日期（**1bd May 8 起租已确认**）/ 来源: WebSearch/Craigslist-wst / 地址 5181 W Adams Blvd（West Adams，USC 步行约 15–20 min）；全新楼，健身中心 + SS Appliances；1bd 另见 [7847893186](https://losangeles.craigslist.org/wst/apa/d/los-angeles-west-adams-near-koreatown/7847893186.html) / [7848058382](https://losangeles.craigslist.org/wst/apa/d/los-angeles-brand-new-bedroom-in-west/7848058382.html)；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-05-28）
+
+- [2026-05-28] [Modern Studio in West Adams — W/D + SS Appliances — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-washer-dryer-ss-appliances/7927489721.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；W/D in unit + SS Appliances；ID 7927xxx 帖龄与已知近期帖（7929676514）相近，推测近期发布；⚠️ 地址未确认，注意区分是否为 E On Adams (5181 W Adams) 已追踪物业；WebFetch 403 无法核实；非黑名单；不计入今日新增
+- [2026-05-28] [Modern Luxury Studio Close to Koreatown — Fitness Center — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-modern-luxury-studio-close/7920090164.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / West Adams / K-town 边界（USC E Line 约 25–30 min）；全新楼，健身中心；ID 7920xxx 较新；WebFetch 403 无法核实发布日期及地址；非黑名单；不计入今日新增
 
 ---
 
