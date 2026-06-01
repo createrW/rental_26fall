@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-05-31　今日新增 0 条**
+**最后更新：2026-06-01　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -155,6 +155,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-28] [Modern Studio in West Adams — W/D + SS Appliances — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-washer-dryer-ss-appliances/7927489721.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；W/D in unit + SS Appliances；ID 7927xxx 帖龄与已知近期帖（7929676514）相近，推测近期发布；⚠️ 地址未确认，注意区分是否为 E On Adams (5181 W Adams) 已追踪物业；WebFetch 403 无法核实；非黑名单；不计入今日新增
 - [2026-05-28] [Modern Luxury Studio Close to Koreatown — Fitness Center — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-modern-luxury-studio-close/7920090164.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / West Adams / K-town 边界（USC E Line 约 25–30 min）；全新楼，健身中心；ID 7920xxx 较新；WebFetch 403 无法核实发布日期及地址；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-06-01）
+
+- [2026-06-01] [Stainless Appliances + Spectacular Views + Walk-In Closets — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-stainless-appliances/7929285011.html) — Studio/1BD / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；SS 电器 + 大视野 + 大步入式衣橱；ID 7929285011（高于已追踪的 7927xxx，为更新帖）；⚠️ WebFetch 403 无法核实发布日期及价格；注意确认是否为 E On Adams (5181 W Adams) 或同区其他楼盘；非黑名单；不计入今日新增
 
 ---
 
