@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-04　今日新增 0 条**
+**最后更新：2026-06-05　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -160,6 +160,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-01] [Stainless Appliances + Spectacular Views + Walk-In Closets — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-stainless-appliances/7929285011.html) — Studio/1BD / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；SS 电器 + 大视野 + 大步入式衣橱；ID 7929285011（高于已追踪的 7927xxx，为更新帖）；⚠️ WebFetch 403 无法核实发布日期及价格；注意确认是否为 E On Adams (5181 W Adams) 或同区其他楼盘；非黑名单；不计入今日新增
 
+### 自动监控新增（2026-06-05）
+
+- [2026-06-05] [255 Grand (DTLA Bunker Hill) — Studio $1,841+](https://www.255grand.com/) — Studio 480+ sq ft / ⚠️ 问起租日期（官网显示当前有单元 2306 于 **2026-06-04 刚上线** $1,962/月 / 480 sq ft；unit 1510 $1,914 于 5/9 上线）/ 来源: WebSearch + Apartments.com / 地址 255 S Grand Ave, LA 90012（DTLA Bunker Hill；近 Walt Disney Concert Hall、The Broad Museum；步行约 10 min 至 7th St/Metro Center → E Line USC 约 20 min）；当前促销：**最高 6 周免租**；豪华设施：加热泳池/Spa + Gourmet BBQ + 影院 + 24h 礼宾 + 屋顶露台 + On-Site 餐厅；独立管理（非黑名单）；⚠️ 无 SSN 押金政策需直接致电 (213) 732-3157 或访问官网；⚠️ CL 帖发布日期未确认，不计入今日新增 — [Craigslist 帖 1](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-expansive-outdoor/7867187500.html) · [Craigslist 帖 2](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-on-site-concierge/7859949549.html) · [Apartments.com](https://www.apartments.com/255-grand-los-angeles-ca/ew3hkhq/) · [官网楼层图](https://www.255grand.com/apartments/ca/los-angeles/floor-plans)
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -225,6 +229,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-04] [Koreatown Apts — Studio $1,400 / 1bd $1,700（房东付水电气）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-apartments-for/7856864730.html) — Studio/Bachelor/1bd / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 2700 San Marino St, K-town；**房东付水电气**（实际净月租更低）；WebFetch 403；不计入今日新增
 - [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
 - [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-06-05）
+
+- [2026-06-05] [Alexandria Tower (Pacific Crest) — Studio $1,245+](https://www.alexandriatower.com/) — Studio 450–750 sq ft（楼内共 50 个 studio + 10 个 1BR 单元）/ ⚠️ 问起租日期（CL 帖 Apr 2025 偏旧，建议通过官网或 Apartments.com 确认当前可用单元）/ 来源: WebSearch / 地址 314 S Alexandria Ave, LA 90020（Koreatown Wilshire Center；Red/Purple Line（Metro B/D）地铁步行可达 → 换乘 → 7th St/Metro Center → E Line USC 约 30 min）；1926 年 William Allen 设计 Beaux-Arts 历史建筑；木地板 + 超大衣橱 + 大厨房含餐区 + 浴室超大衣橱 + 泡澡浴缸；电梯 + 宠物友好（猫狗）+ 现场洗衣 + 控制门禁；Pacific Crest Real Estate 管理（非黑名单）；价格 $1,245–$1,595/月（含同街竞争楼盘报价区间）；⚠️ 无 SSN 押金政策需直接询问；不计入今日新增 — [Apartments.com](https://www.apartments.com/alexandria-tower-apartments-los-angeles-ca/3pe4ccf/) · [Zumper](https://www.zumper.com/apartment-buildings/p325423/alexandria-tower-wilshire-center-koreatown-los-angeles-ca) · [Craigslist 帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-studio/7840612905.html)
 
 ### 自动监控新增（2026-05-25）
 
