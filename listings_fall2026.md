@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-05　今日新增 0 条**
+**最后更新：2026-06-06　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -230,6 +230,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
 - [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
 
+### 自动监控新增（2026-06-06）
+
+- [2026-06-06] [Zephyr Koreatown — 1BR $2,845+](https://www.zephyrapts.com/) — 1BR（无 studio 户型）/ ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 2847 Leeward Ave, LA 90005（Koreatown / MacArthur Park 边界；步行至 Metro B/D Line 站 → 7th St → E Line USC 约 30 min）；全新楼盘，阳台 + W/D in unit + 落地窗 + DTLA 和 Hollywood 景观；2 个停车位；宠物友好；⚠️ 仅 1BR/2BR，无 studio；价格 $2,845+ 偏高；无 SSN 押金政策需直接询问；不计入今日新增 — [Apartments.com](https://www.apartments.com/zephyr-koreatown-los-angeles-ca/nl6wl4m/) · [Zumper](https://www.zumper.com/apartment-buildings/p1012205/zephyr-koreatown-macarthur-park-los-angeles-ca)
+
 ### 自动监控新增（2026-06-05）
 
 - [2026-06-05] [Alexandria Tower (Pacific Crest) — Studio $1,245+](https://www.alexandriatower.com/) — Studio 450–750 sq ft（楼内共 50 个 studio + 10 个 1BR 单元）/ ⚠️ 问起租日期（CL 帖 Apr 2025 偏旧，建议通过官网或 Apartments.com 确认当前可用单元）/ 来源: WebSearch / 地址 314 S Alexandria Ave, LA 90020（Koreatown Wilshire Center；Red/Purple Line（Metro B/D）地铁步行可达 → 换乘 → 7th St/Metro Center → E Line USC 约 30 min）；1926 年 William Allen 设计 Beaux-Arts 历史建筑；木地板 + 超大衣橱 + 大厨房含餐区 + 浴室超大衣橱 + 泡澡浴缸；电梯 + 宠物友好（猫狗）+ 现场洗衣 + 控制门禁；Pacific Crest Real Estate 管理（非黑名单）；价格 $1,245–$1,595/月（含同街竞争楼盘报价区间）；⚠️ 无 SSN 押金政策需直接询问；不计入今日新增 — [Apartments.com](https://www.apartments.com/alexandria-tower-apartments-los-angeles-ca/3pe4ccf/) · [Zumper](https://www.zumper.com/apartment-buildings/p325423/alexandria-tower-wilshire-center-koreatown-los-angeles-ca) · [Craigslist 帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-studio/7840612905.html)
@@ -277,6 +281,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-04）
 
 - [2026-05-04] [Studio in DTLA/South Park — 4 Weeks Free — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-in-dtla-south-park/7864419351.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / DTLA South Park；大型 116-unit 楼盘（loft 风格），高天花板 + walk-in closet + SS Appliances；当前促销 **4 周免租**；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-06-06）
+
+- [2026-06-06] [Sentral DTLA 755 S Spring — Studio $1,771+](https://sentral.com/los-angeles/dtla) — Studio / 1BR / 2BR / ⚠️ 问起租日期（Fall 2026 未确认；Yelp **Updated June 2026** 显示当前活跃）/ 来源: WebSearch / 地址 755 S Spring St, LA 90014（DTLA Historic Core；步行约 0.5 mile 至 7th St/Metro Center → E Line 至 USC，约 20 min）；注意：此为 **755 号楼**，与已追踪的 [732 S Spring](https://usc.uloop.com/housing/view.php/2683842437/Sentral-DTLA-at-732-S-Spring) 为同品牌不同楼；Studio 最低 $1,771/月，当前促销 **8 周免租内置入价格**；楼内有健身房 + 泳池 + 合作办公 + EV 充电 + 24h 安保；Floor-to-ceiling 落地窗 + Full-size W/D in unit；Sentral 品牌（Sonder 旗下）非黑名单；⚠️ 无 SSN 押金政策需直接致电或访问官网；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/sentral-dtla-los-angeles-ca/6wdx84r/) · [Yelp（June 2026 更新）](https://www.yelp.com/biz/sentral-dtla-at-755-spring-street-los-angeles) · [Rent.com](https://www.rent.com/apartment/sentral-dtla-los-angeles-ca-lc5966175)
 
 ### 自动监控新增（2026-05-21）
 
