@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-06　今日新增 0 条**
+**最后更新：2026-06-07　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -164,6 +164,14 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-05] [255 Grand (DTLA Bunker Hill) — Studio $1,841+](https://www.255grand.com/) — Studio 480+ sq ft / ⚠️ 问起租日期（官网显示当前有单元 2306 于 **2026-06-04 刚上线** $1,962/月 / 480 sq ft；unit 1510 $1,914 于 5/9 上线）/ 来源: WebSearch + Apartments.com / 地址 255 S Grand Ave, LA 90012（DTLA Bunker Hill；近 Walt Disney Concert Hall、The Broad Museum；步行约 10 min 至 7th St/Metro Center → E Line USC 约 20 min）；当前促销：**最高 6 周免租**；豪华设施：加热泳池/Spa + Gourmet BBQ + 影院 + 24h 礼宾 + 屋顶露台 + On-Site 餐厅；独立管理（非黑名单）；⚠️ 无 SSN 押金政策需直接致电 (213) 732-3157 或访问官网；⚠️ CL 帖发布日期未确认，不计入今日新增 — [Craigslist 帖 1](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-expansive-outdoor/7867187500.html) · [Craigslist 帖 2](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-on-site-concierge/7859949549.html) · [Apartments.com](https://www.apartments.com/255-grand-los-angeles-ca/ew3hkhq/) · [官网楼层图](https://www.255grand.com/apartments/ca/los-angeles/floor-plans)
 
+### 自动监控新增（2026-06-07）
+
+- [2026-06-07] [A40--Trojan Village — Studio $1,850+](https://www.trojanvillage.com/) — Studio / 1BR / ⚠️ 问起租日期（官网未明确 Fall 2026 起租日）/ 来源: WebSearch + Apartments.com / 地址 1125–1137 W 36th Pl, LA 90007（USC DPS Zone 附近，距 USC 步行约 0.6 mile / 11 min）；20 unit 西班牙海地式社区，硬木地板 + 花岗岩台面 + A/C + SS 电器 + 门禁停车（额外收费）；24h 洗衣；非黑名单；⚠️ 无 SSN 押金政策未知，需直接问 leasing；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/a40-trojan-village-los-angeles-ca/60rh6ev/) · [RentCafe](https://www.rentcafe.com/apartments/ca/los-angeles/trojan-village/default.aspx) · [ApartmentFinder](https://www.apartmentfinder.com/California/Los-Angeles-Apartments/1125-W-36Th-Place-Near-Usc-Apartments-g1ry2ez)
+- [2026-06-07] [Trojan Partners Management Group — Studio 起（USC 周边多处物业）— 问价](https://trojanpartnersmgmt.com/) — Studio / co-living / ⚠️ 问起租日期 + 具体物业地址 + 价格 + 押金政策 / 来源: WebSearch / USC 校园周边多处物业；2026-27 预租中；提供 co-living 及传统独立公寓两类；非黑名单；⚠️ 官网 403 无法核实价格及具体物业清单；建议直接致电或填官网表单获取 Fall 2026 起租 + 无 SSN 押金条款；不计入今日新增
+- [2026-06-07] [Ellendale Arms Studio — Walk to USC & Village — $1,845](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-apartment-on/7862633229.html) — Studio 330 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Ellendale Place（USC 步行可达）；同街已追踪 $1,745 帖（7835578033），本帖为同楼不同 unit 或同街另一物业，价格略高；WebFetch 403；帖 ID 7862633229 高于已追踪版本，相对更新；非黑名单；不计入今日新增
+- [2026-06-07] [Student Housing at USC! Prime Location on 29th St — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-student-housing-at-usc/7855602053.html) — Studio / 1bd / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / 29th St（USC DPS Zone 内或附近）；WebFetch 403；非黑名单；不计入今日新增
+- [2026-06-07] [Free Lyft Zone — Student Housing Close to USC — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-free-lyft-zone-so-close-to/7863419268.html) — Studio / 1bd / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / USC Free Lyft Zone 范围内（DPS 夜间打车覆盖区域）；WebFetch 403；非黑名单；不计入今日新增
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -285,6 +293,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-06）
 
 - [2026-06-06] [Sentral DTLA 755 S Spring — Studio $1,771+](https://sentral.com/los-angeles/dtla) — Studio / 1BR / 2BR / ⚠️ 问起租日期（Fall 2026 未确认；Yelp **Updated June 2026** 显示当前活跃）/ 来源: WebSearch / 地址 755 S Spring St, LA 90014（DTLA Historic Core；步行约 0.5 mile 至 7th St/Metro Center → E Line 至 USC，约 20 min）；注意：此为 **755 号楼**，与已追踪的 [732 S Spring](https://usc.uloop.com/housing/view.php/2683842437/Sentral-DTLA-at-732-S-Spring) 为同品牌不同楼；Studio 最低 $1,771/月，当前促销 **8 周免租内置入价格**；楼内有健身房 + 泳池 + 合作办公 + EV 充电 + 24h 安保；Floor-to-ceiling 落地窗 + Full-size W/D in unit；Sentral 品牌（Sonder 旗下）非黑名单；⚠️ 无 SSN 押金政策需直接致电或访问官网；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/sentral-dtla-los-angeles-ca/6wdx84r/) · [Yelp（June 2026 更新）](https://www.yelp.com/biz/sentral-dtla-at-755-spring-street-los-angeles) · [Rent.com](https://www.rent.com/apartment/sentral-dtla-los-angeles-ca-lc5966175)
+
+### 自动监控新增（2026-06-07）
+
+- [2026-06-07] [Maxfield Lofts DTLA — Studio $1,920+ / 当前促销 2 个月免租](https://www.themaxla.com/) — Studio 662–951 sq ft / 1BR / ⚠️ 问起租日期（官网 + Apartments.com 显示当前活跃）/ 来源: WebSearch / 地址 819 Santee St, LA 90014（DTLA Fashion District；步行约 0.4 mile 至 7th St/Metro Center → E Line 至 USC，约 20 min）；1927 年 Art-Deco 历史建筑，14 层 96 units；屋顶露台 + 健身中心 + 宠物友好；当前促销：**2 个月免租 或 1 年免费停车**（13 个月 lease，折合月租约 $1,774 起）；非黑名单；⚠️ 无 SSN 押金政策未知，需直接询问；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/maxfield-lofts-los-angeles-ca/qtmfpcz/) · [WestsideRentals](https://www.westsiderentals.com/los-angeles-ca/maxfield-lofts-qtmfpcz) · [Rent.com](https://www.rent.com/apartment/maxfield-lofts-los-angeles-ca-lc6039161)
 
 ### 自动监控新增（2026-05-21）
 
