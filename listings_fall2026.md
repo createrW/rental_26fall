@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-07　今日新增 0 条**
+**最后更新：2026-06-08　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -164,6 +164,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-05] [255 Grand (DTLA Bunker Hill) — Studio $1,841+](https://www.255grand.com/) — Studio 480+ sq ft / ⚠️ 问起租日期（官网显示当前有单元 2306 于 **2026-06-04 刚上线** $1,962/月 / 480 sq ft；unit 1510 $1,914 于 5/9 上线）/ 来源: WebSearch + Apartments.com / 地址 255 S Grand Ave, LA 90012（DTLA Bunker Hill；近 Walt Disney Concert Hall、The Broad Museum；步行约 10 min 至 7th St/Metro Center → E Line USC 约 20 min）；当前促销：**最高 6 周免租**；豪华设施：加热泳池/Spa + Gourmet BBQ + 影院 + 24h 礼宾 + 屋顶露台 + On-Site 餐厅；独立管理（非黑名单）；⚠️ 无 SSN 押金政策需直接致电 (213) 732-3157 或访问官网；⚠️ CL 帖发布日期未确认，不计入今日新增 — [Craigslist 帖 1](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-expansive-outdoor/7867187500.html) · [Craigslist 帖 2](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-on-site-concierge/7859949549.html) · [Apartments.com](https://www.apartments.com/255-grand-los-angeles-ca/ew3hkhq/) · [官网楼层图](https://www.255grand.com/apartments/ca/los-angeles/floor-plans)
 
+### 自动监控新增（2026-06-08）
+
+- [2026-06-08] [Jefferson Flats (Student Housing) — Studio $1,399+](https://www.thejeffersonflats.com/) — Studio / 1BR（2BR / 3BR 也有）/ ⚠️ 问起租日期（2025-26 定价已知；2026-27 价格需直接确认）/ 来源: WebSearch + Amber Student / 地址 1320 W Jefferson Blvd, LA 90007（USC DPS Patrol Zone 内，距 USC 1.5 个街区步行约 5 min）；全装修含家具：W/D in unit + SS 电器 + 空调 + 智能门锁；社区设施：健身中心 + 屋顶露台 + 24h BBQ 区；Amber Student 上架（国际生友好平台）；非黑名单；⚠️ 无 SSN 押金政策需直接致电或访问官网；不计入今日新增（无具体发布日期）— [Amber Student](https://amberstudent.com/places/jefferson-flats-los-angeles-2410193742313) · [Apartments.com](https://www.apartments.com/jefferson-flats-apartments-los-angeles-ca/5807ten/) · [uhomes](https://en.uhomes.com/us/los-angeles/detail-apartments-1591762)
+
 ### 自动监控新增（2026-06-07）
 
 - [2026-06-07] [A40--Trojan Village — Studio $1,850+](https://www.trojanvillage.com/) — Studio / 1BR / ⚠️ 问起租日期（官网未明确 Fall 2026 起租日）/ 来源: WebSearch + Apartments.com / 地址 1125–1137 W 36th Pl, LA 90007（USC DPS Zone 附近，距 USC 步行约 0.6 mile / 11 min）；20 unit 西班牙海地式社区，硬木地板 + 花岗岩台面 + A/C + SS 电器 + 门禁停车（额外收费）；24h 洗衣；非黑名单；⚠️ 无 SSN 押金政策未知，需直接问 leasing；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/a40-trojan-village-los-angeles-ca/60rh6ev/) · [RentCafe](https://www.rentcafe.com/apartments/ca/los-angeles/trojan-village/default.aspx) · [ApartmentFinder](https://www.apartmentfinder.com/California/Los-Angeles-Apartments/1125-W-36Th-Place-Near-Usc-Apartments-g1ry2ez)
@@ -237,6 +241,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-04] [Koreatown Apts — Studio $1,400 / 1bd $1,700（房东付水电气）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-apartments-for/7856864730.html) — Studio/Bachelor/1bd / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 2700 San Marino St, K-town；**房东付水电气**（实际净月租更低）；WebFetch 403；不计入今日新增
 - [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
 - [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-06-08）
+
+- [2026-06-08] [The Avalon Catalina (KTown Apts on Catalina) — 1BR $1,395（含水气暖）](https://www.ktownaptsoncatalina.com/) — 1BR（也有 studio 和 2BR）/ ⚠️ 问起租日期 / 来源: WebSearch / 地址 324 S Catalina St, LA 90020（Koreatown Wilshire Center；步行约 0.3 mile 至 Vermont/Wilshire Metro B/D Line → 7th St → E Line USC 约 30 min）；1BR $1,395/月含水电气（gas、water、trash included，实际净成本低于标价）；花岗岩台面 + 原木地板 + 大衣橱 + 升级厨柜；电梯 + 门禁 + 现场洗衣 + 24h 监控 + 现场管理；宠物友好（额外押金）；独立管理（非黑名单）；⚠️ 无 SSN 押金政策需直接电话询问 (213) 952-7918；不计入今日新增（CL 发帖日期无法核实）— [Craigslist 帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-updated-bedroom-apartment/7861607649.html) · [Zumper](https://www.zumper.com/apartment-buildings/p39165/324-s-catalina-wilshire-center-koreatown-los-angeles-ca) · [Rent.com](https://www.rent.com/apartment/324-s-catalina-los-angeles-ca-lc5894155)
 
 ### 自动监控新增（2026-06-06）
 
@@ -424,6 +432,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-27）
 
 - [2026-05-27] [The Flynn (170 S Mountain View Ave) — Studio $1,195–$1,395](https://losangeles.craigslist.org/lac/apa/d/los-angeles-large-studio-apartments-the/7840354187.html) — Studio（大户型，含独立厨房区）/ ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 170 S Mountain View Ave, LA 90057（Westlake / Echo Park 边界，近 Koreatown 西北侧；Metro D Line→7th St→E Line USC 约 35–40 min）；近期翻新，Scandinavian 风格；vinyl plank 地板，SS 电器，新厨柜台面；Studio 分层：地下室 $1,195/月（+$50 电费）、1楼 $1,250–$1,295、大 studio $1,395；RUBS 水气费约 $75/月；⚠️ **申请要求：700+ 信用分 + 3x 月租收入证明**（F-1 无美国信用史 / 无工资收入 → 申请难度较大，建议问是否接受 Co-Signer 或银行存款代替）；非黑名单；不计入今日新增 — [Rent.com](https://www.rent.com/apartment/170-s-mountain-view-ave-los-angeles-ca-lc5898156) · [RentalSource $1,395](https://www.rentalsource.com/details/170-s-mountain-view-ave-los-angeles-ca-72501664/)
+
+### 自动监控新增（2026-06-08）
+
+- [2026-06-08] [The Normandie — Studio / 1BR $2,000+（最多 8 周免租）](https://www.apartments.com/the-normandie-los-angeles-ca/t79pe0b/) — Studio / 1BR / ⚠️ 问起租日期（当前可入住，建议确认 Aug 2026 可排期）/ 来源: WebSearch / 地址 1124–1140 S Normandie Ave, LA 90006（Pico-Union / Harvard Heights；USC 公交约 20–30 min，近 110 高速 + Metro 10/110；Pico-Union 在通勤白名单内）；2026 年全新竣工 84-unit 中层楼；1BR $2,000–$2,075/月；studio 价格需咨询；open floor plan + 落地大窗 + W/D in unit + 现代精装；门禁停车 $150/月；宠物友好；当前促销：**最高 8 周免租**（13 个月 lease）；独立管理（非黑名单）；⚠️ 无 SSN 押金政策需直接致电询问；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/the-normandie-los-angeles-ca/t79pe0b/) · [WestsideRentals](https://www.westsiderentals.com/los-angeles-ca/the-normandie-t79pe0b) · [Rent.com](https://www.rent.com/apartment/the-normandie-los-angeles-ca-lc6261823)
 
 ### 自动监控新增（2026-04-30）
 
