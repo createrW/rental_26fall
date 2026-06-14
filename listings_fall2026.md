@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-13　今日新增 0 条**
+**最后更新：2026-06-14　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -175,6 +175,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-06-07] [Ellendale Arms Studio — Walk to USC & Village — $1,845](https://losangeles.craigslist.org/lac/apa/d/los-angeles-studio-apartment-on/7862633229.html) — Studio 330 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Ellendale Place（USC 步行可达）；同街已追踪 $1,745 帖（7835578033），本帖为同楼不同 unit 或同街另一物业，价格略高；WebFetch 403；帖 ID 7862633229 高于已追踪版本，相对更新；非黑名单；不计入今日新增
 - [2026-06-07] [Student Housing at USC! Prime Location on 29th St — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-student-housing-at-usc/7855602053.html) — Studio / 1bd / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / 29th St（USC DPS Zone 内或附近）；WebFetch 403；非黑名单；不计入今日新增
 - [2026-06-07] [Free Lyft Zone — Student Housing Close to USC — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-free-lyft-zone-so-close-to/7863419268.html) — Studio / 1bd / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / USC Free Lyft Zone 范围内（DPS 夜间打车覆盖区域）；WebFetch 403；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-06-14）
+
+- [2026-06-14] [USC Portland House (Portland Street LLC) — Studio $1,250+](https://www.apartments.com/usc-portland-house-los-angeles-ca/szfsgg5/) — Studio 625 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 2625 Portland St, LA 90007（USC DPS Zone 内，步行约 14 min；紧邻已追踪 portlandstreetapartments.com 2611 Portland）；2023 年新建 8-unit 精品楼；含 W/D in unit + SS 电器 + 健身中心 + 泳池 + 门禁；Portland Street LLC 管理（非黑名单）；Studio 625 sq ft 起价约 $1,250/月（低于区域均价）；⚠️ **注意：同街 2356 Portland St 为 Stuho 旗下黑名单物业（stuho.com/Details.aspx?id=125），勿混淆**；⚠️ 无 SSN 押金政策未知，需直接联系；不计入今日新增（无具体发布日期）— [Homes.com](https://www.homes.com/property/usc-portland-house-los-angeles-ca/cr354tnerp1fj/) · [Trulia](https://www.trulia.com/building/usc-portland-street-house-2625-portland-st-los-angeles-ca-90007-2077195206)
 
 ---
 
