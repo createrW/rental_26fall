@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-14　今日新增 0 条**
+**最后更新：2026-06-15　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -245,6 +245,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-04] [Koreatown Apts — Studio $1,400 / 1bd $1,700（房东付水电气）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-apartments-for/7856864730.html) — Studio/Bachelor/1bd / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 2700 San Marino St, K-town；**房东付水电气**（实际净月租更低）；WebFetch 403；不计入今日新增
 - [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
 - [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-06-15）
+
+- [2026-06-15] [NO SECURITY DEPOSIT + 1MONTH FREE — 新装 Studio Koreatown — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-no-security-deposit-1month/7861961203.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / Koreatown 核心；**无押金**（需 700+ 信用分）+ 1 个月免租（无 SSN 学生 → 需问是否接受 co-signer 或银行存款代替信用分）；硬木地板 + 充足壁橱 + 全配厨房（炉灶 + 冰箱）+ 现场 App 操控洗衣；水电包含 electric + gas，water/trash/sewer 自付；近 Metro 站 + K-town 餐厅夜生活；⚠️ **申请要求：700+ 美国信用分（F-1 无 US 信用史需提前确认）**；⚠️ CL 帖 ID 偏低（7861961203），可能为较旧帖，无法核实发布日期，建议致电确认是否仍可用及具体租价；非黑名单；不计入今日新增
 
 ### 自动监控新增（2026-06-08）
 
