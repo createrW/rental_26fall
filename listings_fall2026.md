@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-15　今日新增 0 条**
+**最后更新：2026-06-16　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -245,6 +245,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-04] [Koreatown Apts — Studio $1,400 / 1bd $1,700（房东付水电气）](https://losangeles.craigslist.org/lac/apa/d/los-angeles-koreatown-apartments-for/7856864730.html) — Studio/Bachelor/1bd / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 地址 2700 San Marino St, K-town；**房东付水电气**（实际净月租更低）；WebFetch 403；不计入今日新增
 - [2026-05-04] [Remodeled KOREATOWN/DTLA Studio — Gas Fireplace A/C — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-remodeled-koreatown-dtla/7856372230.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 边界；壁炉 + A/C；WebFetch 403；不计入今日新增
 - [2026-05-04] [Newly Renovated Studio Near Mid-Wilshire — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-newly-renovated-studio-unit/7855507881.html) — Studio / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Craigslist-lac / Mid-Wilshire 区（Metro D Line 可换乘 → USC；在通勤白名单内）；全新装修；WebFetch 403；不计入今日新增
+
+### 自动监控新增（2026-06-16）
+
+- [2026-06-16] [Fedora x Trilby (Koreatown) — Studio $1,814+](https://www.fedoraxtrilby.com/) — Studio 513 sq ft+ / 起租 **2026-08-07**（Fall 2026 已确认）/ 来源: WebSearch + Zillow（11 units 当前可选）/ 地址 839 S Fedora St, LA 90005（Koreatown Wilshire Center；步行约 8–10 min 至 Vermont/Wilshire Metro B/D Line → 7th St/Metro Center → E Line USC 约 30–35 min）；双楼盘（Fedora + Trilby），Studio / 1BR / 2BR（513–1,375 sq ft）；3 个屋顶露台（火坑 + 韩式 BBQ + Bocce Ball + 乒乓）+ 2 个健身中心 + 会议室；全装修：Nest 恒温 + W/D in unit + Walk-in Closet + 落地窗；Studio 从 $1,814+/月（已知单元约 $2,173/mo for 505 sq ft）；当前促销：**最高 4 周免租**（select units）；Yelp 22 条评价 Updated May 2026；独立管理（非黑名单；⚠️ 注意与同街 970 Fedora【Tripalink 黑名单物业】区分）；⚠️ 无 SSN 押金政策需直接致电 (833) 217-0853；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/fedora-x-trilby-los-angeles-ca/3whmk0g/) · [Zillow](https://www.zillow.com/b/fedora-x-trilby-los-angeles-ca-C65PMh/) · [Yelp](https://www.yelp.com/biz/fedora-x-trilby-los-angeles)
 
 ### 自动监控新增（2026-06-15）
 
