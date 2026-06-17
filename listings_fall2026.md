@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-16　今日新增 0 条**
+**最后更新：2026-06-17　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -180,6 +180,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-14] [USC Portland House (Portland Street LLC) — Studio $1,250+](https://www.apartments.com/usc-portland-house-los-angeles-ca/szfsgg5/) — Studio 625 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 2625 Portland St, LA 90007（USC DPS Zone 内，步行约 14 min；紧邻已追踪 portlandstreetapartments.com 2611 Portland）；2023 年新建 8-unit 精品楼；含 W/D in unit + SS 电器 + 健身中心 + 泳池 + 门禁；Portland Street LLC 管理（非黑名单）；Studio 625 sq ft 起价约 $1,250/月（低于区域均价）；⚠️ **注意：同街 2356 Portland St 为 Stuho 旗下黑名单物业（stuho.com/Details.aspx?id=125），勿混淆**；⚠️ 无 SSN 押金政策未知，需直接联系；不计入今日新增（无具体发布日期）— [Homes.com](https://www.homes.com/property/usc-portland-house-los-angeles-ca/cr354tnerp1fj/) · [Trulia](https://www.trulia.com/building/usc-portland-street-house-2625-portland-st-los-angeles-ca-90007-2077195206)
 
+### 自动监控新增（2026-06-17）
+
+- [2026-06-17] [University Manor / 2700 Ellendale (Fred Leeds Properties) — Studio $1,795](https://www.apartments.com/2700-ellendale-los-angeles-ca/4ed3bwh/) — Studio / 2BR $2,895 / ⚠️ 问起租日期（典型 11 个月 Aug–Jun 学年合同，Fall 2026 可咨询）/ 来源: WebSearch / 地址 2700 Ellendale Pl, LA 90007（University Park，USC 步行约 0.7 mile / 14 min；Ellendale Place 街道，与 Trojan Plaza 同街，在 DPS 巡逻区附近）；Fred Leeds Properties 管理（USC 学生住房专业运营商，flpm-usc.com，非黑名单）；社区设施：泳池 + BBQ 区 + 自行车停车 + 门禁 + 16 路安全摄像 + 电梯 + 投币洗衣；**房东付水费 + 垃圾费**（电 + 气 + 网自付）；1 个停车位；要求购买租客保险；⚠️ 无 SSN 押金政策需直接联系 (310) 826-2466；不计入今日新增（无具体发布日期）— [Fred Leeds USC 页](https://flpm-usc.com/properties/2700-ellendale/) · [Apartments.com](https://www.apartments.com/2700-ellendale-los-angeles-ca/4ed3bwh/) · [Zillow](https://www.zillow.com/apartments/los-angeles-ca/2700-ellendale/5XjTQt/)
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -249,6 +253,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-16）
 
 - [2026-06-16] [Fedora x Trilby (Koreatown) — Studio $1,814+](https://www.fedoraxtrilby.com/) — Studio 513 sq ft+ / 起租 **2026-08-07**（Fall 2026 已确认）/ 来源: WebSearch + Zillow（11 units 当前可选）/ 地址 839 S Fedora St, LA 90005（Koreatown Wilshire Center；步行约 8–10 min 至 Vermont/Wilshire Metro B/D Line → 7th St/Metro Center → E Line USC 约 30–35 min）；双楼盘（Fedora + Trilby），Studio / 1BR / 2BR（513–1,375 sq ft）；3 个屋顶露台（火坑 + 韩式 BBQ + Bocce Ball + 乒乓）+ 2 个健身中心 + 会议室；全装修：Nest 恒温 + W/D in unit + Walk-in Closet + 落地窗；Studio 从 $1,814+/月（已知单元约 $2,173/mo for 505 sq ft）；当前促销：**最高 4 周免租**（select units）；Yelp 22 条评价 Updated May 2026；独立管理（非黑名单；⚠️ 注意与同街 970 Fedora【Tripalink 黑名单物业】区分）；⚠️ 无 SSN 押金政策需直接致电 (833) 217-0853；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/fedora-x-trilby-los-angeles-ca/3whmk0g/) · [Zillow](https://www.zillow.com/b/fedora-x-trilby-los-angeles-ca-C65PMh/) · [Yelp](https://www.yelp.com/biz/fedora-x-trilby-los-angeles)
+
+### 自动监控新增（2026-06-17）
+
+- [2026-06-17] [The Chadwick (Greystar) — Studio $1,581+ / 1BR / 2BR](https://www.greystar.com/the-chadwick-los-angeles-ca/p_16792) — Studio / 1BR / 2BR（0–2 beds/1–2 baths）/ ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch + Yelp（Updated **June 2026**，133 条评价）/ 地址 209 S Westmoreland Ave, LA 90004（Koreatown Wilshire Center；步行约 0.3 mile 至 Vermont/Wilshire Metro B/D Line → 7th St → E Line USC 约 30–35 min）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；Studio 从 $1,581/月（K-town 同类 Greystar 中较低价）；社区设施：**2 个泳池 + 火坑 + 室外篮球场**；单元装修：SS 电器 + 花岗岩台面 + 设计师木地板 + 落地大窗；⚠️ 无 SSN 押金政策需直接致电 (213) 648-1790 或走 Greystar ISP；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/the-chadwick-los-angeles-ca/jzr53m6/) · [Yelp（June 2026 更新）](https://www.yelp.com/biz/the-chadwick-los-angeles-3) · [Redfin](https://www.redfin.com/CA/Los-Angeles/The-Chadwick/apartment/7088947)
 
 ### 自动监控新增（2026-06-15）
 
