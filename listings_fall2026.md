@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-17　今日新增 0 条**
+**最后更新：2026-06-18　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -179,6 +179,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-14）
 
 - [2026-06-14] [USC Portland House (Portland Street LLC) — Studio $1,250+](https://www.apartments.com/usc-portland-house-los-angeles-ca/szfsgg5/) — Studio 625 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 2625 Portland St, LA 90007（USC DPS Zone 内，步行约 14 min；紧邻已追踪 portlandstreetapartments.com 2611 Portland）；2023 年新建 8-unit 精品楼；含 W/D in unit + SS 电器 + 健身中心 + 泳池 + 门禁；Portland Street LLC 管理（非黑名单）；Studio 625 sq ft 起价约 $1,250/月（低于区域均价）；⚠️ **注意：同街 2356 Portland St 为 Stuho 旗下黑名单物业（stuho.com/Details.aspx?id=125），勿混淆**；⚠️ 无 SSN 押金政策未知，需直接联系；不计入今日新增（无具体发布日期）— [Homes.com](https://www.homes.com/property/usc-portland-house-los-angeles-ca/cr354tnerp1fj/) · [Trulia](https://www.trulia.com/building/usc-portland-street-house-2625-portland-st-los-angeles-ca-90007-2077195206)
+
+### 自动监控新增（2026-06-18）
+
+- [2026-06-18] [Trojan Terrace (Trojan Buildings) — 1BR $2,195+ / 2BR 更高](https://www.trojanbuildings.com/trojan-terrace) — 1BR / 2BR（466–750 sq ft；无 Studio 户型）/ ⚠️ 问起租日期（官网 trojanbuildings.com 显示 2026-27 预租中）/ 来源: WebSearch + Yelp（Updated May 2026）/ 地址 2632 Ellendale Pl, LA 90007（University Park，USC 步行约 5–8 min；**注意：同街已追踪 Trojan Plaza 为 2727 Ellendale，本楼为 2632，同品牌不同楼**）；4 层 54 units；门控社区，现场停车，高速网络，安全系统；管理方 Trojan Buildings（非黑名单；chris@trojanbuildings.com / (323) 733-5190）；⚠️ 无 SSN 押金政策需直接询问；⚠️ 无具体发布日期，不计入今日新增 — [Apartments.com](https://www.apartments.com/trojan-terrace-los-angeles-ca/96ym7y6/) · [Yelp（Updated May 2026）](https://www.yelp.com/biz/trojan-terrace-apartments-los-angeles) · [Availability 页](https://www.trojanbuildings.com/availability)
 
 ### 自动监控新增（2026-06-17）
 
