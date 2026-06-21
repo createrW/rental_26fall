@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-20　今日新增 0 条**
+**最后更新：2026-06-21　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -261,6 +261,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-17）
 
 - [2026-06-17] [The Chadwick (Greystar) — Studio $1,581+ / 1BR / 2BR](https://www.greystar.com/the-chadwick-los-angeles-ca/p_16792) — Studio / 1BR / 2BR（0–2 beds/1–2 baths）/ ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch + Yelp（Updated **June 2026**，133 条评价）/ 地址 209 S Westmoreland Ave, LA 90004（Koreatown Wilshire Center；步行约 0.3 mile 至 Vermont/Wilshire Metro B/D Line → 7th St → E Line USC 约 30–35 min）；Greystar 管理（大型 REIT，非黑名单，通常 ISP 友好）；Studio 从 $1,581/月（K-town 同类 Greystar 中较低价）；社区设施：**2 个泳池 + 火坑 + 室外篮球场**；单元装修：SS 电器 + 花岗岩台面 + 设计师木地板 + 落地大窗；⚠️ 无 SSN 押金政策需直接致电 (213) 648-1790 或走 Greystar ISP；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/the-chadwick-los-angeles-ca/jzr53m6/) · [Yelp（June 2026 更新）](https://www.yelp.com/biz/the-chadwick-los-angeles-3) · [Redfin](https://www.redfin.com/CA/Los-Angeles/The-Chadwick/apartment/7088947)
+
+### 自动监控新增（2026-06-21）
+
+- [2026-06-21] [Brand New Studio K-Town/DTLA Adjacent — W/D in Unit + SS Appliances — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-d-in-unit-ss-appliances/7938741262.html) — Studio / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 邻区；全新装修，W/D in unit + SS 电器；帖 ID 7938741262（为已监控最高 ID，高于已追踪全部 K-town 帖，疑为近期新发）；WebFetch 403 无法核实日期及地址；非黑名单（标题/URL 无黑名单关键字）；不计入今日新增（无发布日期）
 
 ### 自动监控新增（2026-06-15）
 
