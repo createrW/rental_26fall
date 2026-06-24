@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-23　今日新增 0 条**
+**最后更新：2026-06-24　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -183,6 +183,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-18）
 
 - [2026-06-18] [Trojan Terrace (Trojan Buildings) — 1BR $2,195+ / 2BR 更高](https://www.trojanbuildings.com/trojan-terrace) — 1BR / 2BR（466–750 sq ft；无 Studio 户型）/ ⚠️ 问起租日期（官网 trojanbuildings.com 显示 2026-27 预租中）/ 来源: WebSearch + Yelp（Updated May 2026）/ 地址 2632 Ellendale Pl, LA 90007（University Park，USC 步行约 5–8 min；**注意：同街已追踪 Trojan Plaza 为 2727 Ellendale，本楼为 2632，同品牌不同楼**）；4 层 54 units；门控社区，现场停车，高速网络，安全系统；管理方 Trojan Buildings（非黑名单；chris@trojanbuildings.com / (323) 733-5190）；⚠️ 无 SSN 押金政策需直接询问；⚠️ 无具体发布日期，不计入今日新增 — [Apartments.com](https://www.apartments.com/trojan-terrace-los-angeles-ca/96ym7y6/) · [Yelp（Updated May 2026）](https://www.yelp.com/biz/trojan-terrace-apartments-los-angeles) · [Availability 页](https://www.trojanbuildings.com/availability)
+
+### 自动监控新增（2026-06-24）
+
+- [2026-06-24] [Bright Apt — Large Kitchen, Abundant Storage, Wall A/C near USC — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bright-apt-large-kitchen/7939650749.html) — Studio/1bd / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / USC 附近（帖 ID 7939650749 为今日检索最高 CL ID，高于 2026-06-21 追踪帖 7938741262，推测发布于 2026-06-22 ~ 06-24）；宽大厨房 + 储物充足 + 墙挂 A/C；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
 ### 自动监控新增（2026-06-17）
 
