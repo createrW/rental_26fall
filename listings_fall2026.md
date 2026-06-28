@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-06-27　今日新增 0 条**
+**最后更新：2026-06-28　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -277,6 +277,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-21）
 
 - [2026-06-21] [Brand New Studio K-Town/DTLA Adjacent — W/D in Unit + SS Appliances — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-d-in-unit-ss-appliances/7938741262.html) — Studio / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / K-town/DTLA 邻区；全新装修，W/D in unit + SS 电器；帖 ID 7938741262（为已监控最高 ID，高于已追踪全部 K-town 帖，疑为近期新发）；WebFetch 403 无法核实日期及地址；非黑名单（标题/URL 无黑名单关键字）；不计入今日新增（无发布日期）
+
+### 自动监控新增（2026-06-28）
+
+- [2026-06-28] [Berkshire K2LA (Berkshire Communities) — Studio $1,821+ / 1BR $2,243+（最多 8 周免租）](https://berkshirek2la.com/) — Studio / 1BR / 2BR / ⚠️ 问起租日期（Yelp **Updated June 2026**，54 条评价；Zillow 当前显示 12 个单元可选）/ 来源: WebSearch + Apartments.com + Zillow / 地址 685 S New Hampshire Ave, LA 90005（Koreatown Wilshire Center；步行约 0.3 mile 至 Vermont/Wilshire Metro B/D Line → 7th St/Metro Center → E Line USC 约 30–35 min）；Berkshire Communities 管理（大型商业 REIT，非黑名单，正规国际生押金政策）；Studio 从 $1,821/月；当前促销：**最多 8 周免租**（select units）；屋顶露台 + 度假泳池 + Metro 直达；⚠️ 无 SSN 押金政策需直接致电确认；不计入今日新增（无具体 CL 发布日期）— [Apartments.com](https://www.apartments.com/berkshire-k2la-los-angeles-ca/tmbzn8c/) · [Zillow（12 units available）](https://www.zillow.com/apartments/los-angeles-ca/berkshire-k2la/63fxs2/) · [Yelp（June 2026 更新）](https://www.yelp.com/biz/berkshire-k2la-los-angeles)
 
 ### 自动监控新增（2026-06-15）
 
