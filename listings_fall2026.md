@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-07-08　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -304,6 +304,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [Arwyn Manor Apts — NY Style — Gorgeous Studio (1920s Art Deco) — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-arwyn-manor-aptsny/7859582931.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；1920 年代 Art Deco 建筑，全面翻新 studio；WebFetch 403 无法核实价格及发布日期；非黑名单；不计入今日新增
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-07-08）
+
+- [2026-07-08] [140 N Hoover Studio — 350 sq ft — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-140-hoover-studio/7933506378.html) — Studio / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / 地址 140 N Hoover St, LA 90004（Historic Filipinotown / Westlake 北缘，近 Beverly Blvd & Hoover；通勤白名单区域边缘：公交至 Vermont/Beverly Metro B 线 → 7th St → E Line USC 约 35–40 min）；350 sq ft studio；帖 ID 7933506378（介于已追踪 7929xxx 与 06-21 帖 7938741262 之间，推测 6 月中旬发布，非近 7 天新帖）；WebFetch 403 无法核实发布日期及价格；非黑名单；不计入今日新增
+- [2026-07-08] [The 900 (Koreatown) — Studio $2,020–$2,250+](https://the900apts.com/) — Studio / 1BR / 2BR（505–788 sq ft）/ ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch + Apartments.com / 地址 900 S Vermont Ave, LA 90006（Koreatown 核心，Vermont & 9th；Metro 204 沿 Vermont 直达 Expo/Vermont → USC 约 25–30 min，或步行 0.6 mile 至 Wilshire/Vermont B/D Line）；2021 年建 6 层 193 units；屋顶露台（火坑 + BBQ）+ 健身房 + 娱乐室 + 商务中心；全新电器 + 硬木地板；Walk Score 97；独立管理（非黑名单）；⚠️ Studio $2,020+ 价位中偏高；无 SSN 押金政策需直接询问；⚠️ 关联 CL 帖（[7857483646](https://losangeles.craigslist.org/lac/apa/d/los-angeles-modern-luxury-units-at/7857483646.html)）ID 偏旧无法核实日期，不计入今日新增 — [Apartments.com](https://www.apartments.com/the-900-los-angeles-ca/sd9t7d5/) · [Zillow](https://www.zillow.com/apartments/los-angeles-ca/the-900/CjjCHr/) · [RentCafe](https://www.rentcafe.com/apartments/ca/los-angeles/the-900/default.aspx)
 
 ---
 
