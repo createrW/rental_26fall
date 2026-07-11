@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-07-11　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -383,6 +383,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 > **通勤提示**：San Gabriel/Rosemead 到 USC 走 Metro 76/70 → Union Station → ICS shuttle → USC，约 80–100 分钟。住 Alhambra 西侧最优。
 
+### 自动监控新增（2026-07-11）
+
+- [2026-07-11] [Studio Back House for Rent — Monterey Park — 问价](https://losangeles.craigslist.org/lac/apa/d/monterey-park-studio-back-house-for-rent/7934114946.html) — Studio（独立 back house，私密性好）/ ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / Monterey Park（蒙特利公园，白名单区域；Foothill Silver Streak → DTLA → E Line USC 约 60–90 min，华人超市餐馆密集）；帖 ID 7934114946（介于已追踪 2026-05-10 帖 7933xxx 与 2026-06-21 帖 7938741262 之间，推测 5 月中至 6 月发布）；WebFetch 403 无法核实发布日期、价格及押金政策；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
@@ -464,6 +468,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ---
 
 ## 自动监控 - 其他区域
+
+### 自动监控新增（2026-07-11）
+
+- [2026-07-11] [140 N Hoover Studio — 350 sq ft — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-140-hoover-studio/7933506378.html) — Studio 350 sq ft / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / 地址 140 N Hoover St, LA（Rampart Village / Westlake 边界，Koreatown 东侧邻区，白名单区域；步行至 Metro B/D Line Vermont/Beverly 站约 15 min → 7th St → E Line USC 约 35–40 min）；搜索摘要显示发布于 **2026-05-10**（约 2 个月前，CL 帖可能已续期或已出租，建议致电确认）；WebFetch 403 无法核实价格及押金政策；非黑名单；⚠️ 不计入今日新增（发布日期超过 7 天）
 
 ### 自动监控新增（2026-04-29）
 
