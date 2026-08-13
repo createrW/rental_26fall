@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-08-13　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -16,7 +16,7 @@
 | **Tripalink** ❌ | 对无 SSN 留学生收 **3x 押金**；Yelp/Trustpilot 大量 1 星投诉押金不退、bait-and-switch、虚假 $120 cleaning fee；多人退房后只拿回 1/3 押金 | [Trustpilot](https://www.trustpilot.com/review/tripalink.com) · [Yelp 144 reviews](https://www.yelp.com/biz/tripalink-los-angeles) · [BBB 投诉](https://www.bbb.org/us/ca/los-angeles/profile/property-management/tripalink-property-management-inc-1216-1533637/complaints) · [ComplaintsBoard](https://www.complaintsboard.com/tripalink-lease-agreement-and-deposit-return-c1393823) |
 | **Mosaic Student Communities** ❌ | 黑霉、煤气泄漏、白蚁；70+ 人联名抗议虚假"wear and tear"扣押金；$3,200 押金被全额扣作 repaint；曾被诉讼 | [Daily Trojan 调查](https://dailytrojan.com/2019/04/21/black-mold-gas-leaks-termites-students-report-problems-in-mosaic-off-campus-housing/) · [Yelp 140 reviews](https://www.yelp.com/biz/mosaic-student-communities-los-angeles) |
 | **First Choice Housing** ❌ | 用"已翻新样板房"视频骗签合同（实际房破不堪）；高压逼定（"今晚不交押金就给别人"）；明确"play on" 留学生没经验；Google 评分 1.7 星 | [Daily Trojan 报道](https://dailytrojan.com/2021/10/21/students-criticize-first-choice-housing-practices/) |
-| **Stuho（含 Element by Stuho / The Series by Stuho）** ❌ | 2017 因 Element 楼盘工程拖期 + 进驻时蟑螂/漏水/施工噪音被学生集体诉讼；近年仍有 $3,600 押金纠纷 | [Daily Trojan 诉讼报道](https://dailytrojan.com/2017/04/13/student-tenants-file-lawsuit-stuho/) · [Yelp 137 reviews](https://www.yelp.com/biz/stuho-student-housing-los-angeles-3) |
+| **Stuho（含 Element by Stuho / The Series by Stuho；"The Shrine Collection" 3030 Shrine Pl 亦在 stuho.com 挂牌，疑似同一运营方，避开）** ❌ | 2017 因 Element 楼盘工程拖期 + 进驻时蟑螂/漏水/施工噪音被学生集体诉讼；近年仍有 $3,600 押金纠纷 | [Daily Trojan 诉讼报道](https://dailytrojan.com/2017/04/13/student-tenants-file-lawsuit-stuho/) · [Yelp 137 reviews](https://www.yelp.com/biz/stuho-student-housing-los-angeles-3) |
 | **The Lorenzo** ⚠️ | 维修极慢、long ticket queue；非"诈骗级"，但留学生反馈差 | [Trojans360 评价](https://www.trojans360.com/trojans360posts/a-review-of-usc-off-campus-housing-options) |
 
 **通用避雷信号**（任意公司符合都要警惕）：
