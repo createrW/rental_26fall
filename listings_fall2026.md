@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-08-27　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -191,6 +191,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-17）
 
 - [2026-06-17] [University Manor / 2700 Ellendale (Fred Leeds Properties) — Studio $1,795](https://www.apartments.com/2700-ellendale-los-angeles-ca/4ed3bwh/) — Studio / 2BR $2,895 / ⚠️ 问起租日期（典型 11 个月 Aug–Jun 学年合同，Fall 2026 可咨询）/ 来源: WebSearch / 地址 2700 Ellendale Pl, LA 90007（University Park，USC 步行约 0.7 mile / 14 min；Ellendale Place 街道，与 Trojan Plaza 同街，在 DPS 巡逻区附近）；Fred Leeds Properties 管理（USC 学生住房专业运营商，flpm-usc.com，非黑名单）；社区设施：泳池 + BBQ 区 + 自行车停车 + 门禁 + 16 路安全摄像 + 电梯 + 投币洗衣；**房东付水费 + 垃圾费**（电 + 气 + 网自付）；1 个停车位；要求购买租客保险；⚠️ 无 SSN 押金政策需直接联系 (310) 826-2466；不计入今日新增（无具体发布日期）— [Fred Leeds USC 页](https://flpm-usc.com/properties/2700-ellendale/) · [Apartments.com](https://www.apartments.com/2700-ellendale-los-angeles-ca/4ed3bwh/) · [Zillow](https://www.zillow.com/apartments/los-angeles-ca/2700-ellendale/5XjTQt/)
+
+### 自动监控新增（2026-08-27）
+
+- [2026-08-27] [2111 Portland St Studio（Uloop）— 问价](https://usc.uloop.com/housing/index.php/studio-apartments) — Studio / 起租 **8 月中旬**（listing 标注 "lease beginning mid-August"，需确认是否仍有空位）/ 来源: WebSearch/Uloop / 地址 2111 Portland St, LA 90007（USC 1 英里内，University Park）；全配厨房，可选无家具或部分家具，**水电全包**；⚠️ Uloop 域名被代理屏蔽无法拿到直接帖子链接及发布日期，请在 Uloop studio 索引页搜 "2111 Portland" 定位原帖；非黑名单；⚠️ 问押金倍数（无 SSN）；不计入今日新增（无发布日期）
 
 ### 自动监控新增（2026-06-27）
 
