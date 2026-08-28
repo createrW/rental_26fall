@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-08-28　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -187,6 +187,12 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-24）
 
 - [2026-06-24] [Bright Apt — Large Kitchen, Abundant Storage, Wall A/C near USC — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-bright-apt-large-kitchen/7939650749.html) — Studio/1bd / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-lac / USC 附近（帖 ID 7939650749 为今日检索最高 CL ID，高于 2026-06-21 追踪帖 7938741262，推测发布于 2026-06-22 ~ 06-24）；宽大厨房 + 储物充足 + 墙挂 A/C；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
+### 自动监控新增（2026-08-28）
+
+> ⚠️ **黑名单警报 — Parq on Portland**（949 W Adams Blvd, LA 90007）已确认为 **The Series by Stuho 旗下物业**（stuho.com 直接挂牌该楼；Amber Student 标题即 "The Series Parq On Portland"）。Zillow/Apartments.com/RentCafe 上以独立楼盘名义出现（当前显示 5 个单元可租，$1,995 起），如在任何平台搜到该楼名请直接跳过。
+
+- [2026-08-28] [Studio @ 2111 Portland St（Uloop）— 问价](https://usc.uloop.com/housing/index.php/studio-apartments) — Studio / 起租 8 月中旬（利于当前补位入住）/ 来源: WebSearch/Uloop / 地址 2111 Portland St, LA 90007（USC 1 mile 内，University Park）；**水电全包**，全配厨房，可无家具或半家具，适合 1 人；⚠️ Uloop 域名被出口代理屏蔽无法拿到 listing 直链及发布日期，请在 Uloop 站内搜 "2111 Portland" 定位帖子；同址另有 $1,000/月男生单间（共用厨卫，非目标户型）；非黑名单；⚠️ 问起租日期；不计入今日新增（无发布日期及直链）
 
 ### 自动监控新增（2026-06-17）
 
