@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-09-01　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -195,6 +195,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-27）
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
+### 自动监控新增（2026-09-01）
+
+- [2026-09-01] [2111 Portland St — Studio（水电全包）/ 1BD $1,600](https://usc.uloop.com/housing/index.php/studio-apartments) — Studio / 1BD / 起租：搜索摘要称 studio "mid-August" 可入住（⚠️ 需确认是否还有 Fall 2026 排期）/ 来源: WebSearch/Uloop / 地址 2111 Portland St, LA 90007（USC 1 英里内，University Park）；studio 含全套厨房，可不带家具或半带家具，**utilities included**；同址另有 private 1BD $1,600/月（标注适合 USC 学生/staff/researchers）及 $1,000/月单间（男生合租）；疑似私人房东（非黑名单公司）；⚠️ Uloop 详情页被云端代理屏蔽，只有索引页链接，租金/押金/无 SSN 政策需通过 Uloop 站内联系确认；⚠️ 无发布日期，不计入今日新增
+- ⚠️ 排雷记录：Uloop 上 "The District"（studio $2,185–2,385 起，DPS zone 内，Aug 2026 入住）联系方式为 Livewithmosaic.com — 属 **Mosaic Student Communities 黑名单**，勿联系
 
 ---
 
