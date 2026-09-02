@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-09-02　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -382,6 +382,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - 圣盖博 / El Monte / Hacienda Heights 房源很多 — 浏览 [chineseinla 出租板](https://www.chineseinla.com/f/page_viewforum/f_5.html)
 
 > **通勤提示**：San Gabriel/Rosemead 到 USC 走 Metro 76/70 → Union Station → ICS shuttle → USC，约 80–100 分钟。住 Alhambra 西侧最优。
+
+### 自动监控新增（2026-09-02）
+
+- [2026-09-02] [全新装修独立后屋 Studio — Alhambra（近蒙特利公园）— 问价](https://www.chineseinla.com/f/page_viewtopic/t_3096836.html) — Studio（独立出入后屋，约 150 sq ft，含家具）/ ⚠️ 问起租日期 + 月租价格 / 来源: WebSearch/ChineseInLA / Alhambra 近 Monterey Park（白名单区域，通勤 USC 约 70–90 min）；搜索摘要显示：全新装修、独立出入、含家具、欢迎学生或单身上班族；短租最少 3 个月（另有 $80/天 日租选项）→ **⚠️ 需确认是否接受 12 个月长租及 8 月起租**；帖 ID t_3096836 远高于已追踪最高 ChineseInLA 帖（t_3061777），推测为近期新发；⚠️ ChineseInLA 被代理屏蔽无法核实发布日期及完整详情，建议直接站内私信；面积偏小（~150 sq ft），适合预算优先；非黑名单；不计入今日新增
 
 ### 自动监控新增（2026-05-05）
 
