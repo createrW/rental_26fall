@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-09-08　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -382,6 +382,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - 圣盖博 / El Monte / Hacienda Heights 房源很多 — 浏览 [chineseinla 出租板](https://www.chineseinla.com/f/page_viewforum/f_5.html)
 
 > **通勤提示**：San Gabriel/Rosemead 到 USC 走 Metro 76/70 → Union Station → ICS shuttle → USC，约 80–100 分钟。住 Alhambra 西侧最优。
+
+### 自动监控新增（2026-09-08）
+
+- [2026-09-08] [Monterey Park / 圣盖博 学区房 1B1B（一房一卫一厅）独立出入 — 租金未知](https://www.chineseinla.com/f/page_viewtopic/t_2467304.html) — 1B1B / ⚠️ 问起租日期 / 来源: ChineseInLA（WebSearch 发现）/ ⚠️ 未验证：站点被云端代理屏蔽，无法确认发帖日期与租金，不计今日新增；私人房东（同一房东另有 3B2B 整租），独立出入；需直接站内联系确认 Aug 2026 起租 + 押金倍数
 
 ### 自动监控新增（2026-05-05）
 
