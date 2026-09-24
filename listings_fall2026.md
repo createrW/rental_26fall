@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-09-24　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -386,6 +386,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
+
+### 自动监控新增（2026-09-24）
+
+- [2026-09-24] [Monterey Park 蒙市/圣盖博学区房 一房一卫一厅 独立出入 — $未知](https://www.chineseinla.com/f/page_viewtopic/t_2467304.html) — 1B1B（独立出入）/ ⚠️ 问起租日期与租金 / 来源: ChineseInLA (WebSearch) / 新装修、独立出入、学区房；华人房东（无 SSN 友好概率高）；详情页被云端 IP 屏蔽无法验证发帖日期，不计今日新增
+- [2026-09-24] [Rosemead 独立出入一房一厅 — $未知](https://www.chineseinla.com/f/page_viewtopic/t_3108429.html) — 1B1B（独立出入）/ ⚠️ 问起租日期与租金 / 来源: ChineseInLA (WebSearch) / 位于 Rosemead 方便出入；topic ID 较新（>t_306万，晚于 5 月已收录条目）；华人房东；详情页无法验证发帖日期，不计今日新增
 
 ---
 
