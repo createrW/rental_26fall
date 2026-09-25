@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-09-25　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-09-25）
+
+- [2026-09-25] [Great Studio for Rent — Proximity To USC — $1,900](https://losangeles.craigslist.org/lac/apa/d/san-pedro-great-studio-for-rent/7923864138.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / 搜索摘要显示地址 1147 W 24th St（University Park，gated community，距 USC 数个街区）；⚠️ URL slug 显示 "san-pedro"，与描述地址矛盾，联系前务必确认实际位置；WebFetch 403 无法核实发布日期及押金政策；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -386,6 +390,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
+
+### 自动监控新增（2026-09-25）
+
+- [2026-09-25] [Monterey Park 蒙市/圣盖博学区房 一房一卫一厅（独立出入）— 问价](https://www.chineseinla.com/f/page_viewtopic/t_2467304.html) — 1B1B / ⚠️ 问租金 + 起租日期 / 来源: WebSearch/ChineseInLA / Monterey Park（蒙特利公园，白名单区）；房源含三房两卫及一房一卫一厅两种户型，1B1B 独立出入；帖 ID t_2467304 为已知 ChineseInLA 帖中最高，推测为较新发布；WebFetch 403 无法核实价格、日期及押金政策；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
 ---
 
