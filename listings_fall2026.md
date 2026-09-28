@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-09-28　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -305,6 +305,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
 
+### 自动监控新增（2026-09-28）
+
+- [2026-09-28] [Modern Luxury Studio Close to Koreatown — Fitness Center — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-modern-luxury-studio-close/7920090164.html) — Studio / ⚠️ 问起租日期 + 问租金 / 来源: WebSearch/Craigslist-lac / K-town 附近；现代豪华楼盘含健身房；网络出口策略屏蔽 Craigslist 无法核实价格及发布日期（帖 ID 约 2026 年 4 月区间，可能已续期）；非黑名单；不计入今日新增
+
 ---
 
 ## 3. DTLA（次首选 — E Line 直达 USC ~15 min）
@@ -386,6 +390,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
+
+### 自动监控新增（2026-09-28）
+
+- [2026-09-28] [Monterey Park 蒙市/圣盖博学区房 — 一房一卫一厅独立出入 — 问价](https://www.chineseinla.com/f/page_viewtopic/t_2467304.html) — 1B1B（独立出入，同房源另有 3房2卫整租）/ ⚠️ 问起租日期 + 问租金 / 来源: WebSearch/ChineseInLA / Monterey Park（蒙特利公园，白名单区；华人房东，对无 SSN 通常更友好）；网络出口策略屏蔽 ChineseInLA 无法核实发布日期及价格；非黑名单；不计入今日新增
 
 ---
 
