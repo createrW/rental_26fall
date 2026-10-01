@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-01　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -354,6 +354,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-21] [The Orsini DTLA — Studio $2,029+](https://losangeles.craigslist.org/lac/apa/d/los-angeles-karaoke-lounge-studio-in/7855668799.html) — Studio 479 sq ft+ / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch/Craigslist-lac / 地址 505 N Figueroa St, LA 90012（DTLA Bunker Hill；步行约 14 min 至 7th St/Metro Center → E Line → USC 约 25 min）；大型奢华社区：Jr. Olympic 泳池 + 屋顶泳池/SPA + Karaoke 室 + 影院 + BBQ；Yelp **2026 年 5 月已更新**（707 条评价），活跃挂牌；非黑名单；Studio 折后约 $2,029–$2,199/月起；⚠️ 之前曾有"4 月前入住 12 周免租"活动，Fall 2026 促销需重新确认；⚠️ 无 SSN 押金政策需直接致电 (213) 267-9137；不计入今日新增 — [官网](https://www.theorsini.com/) · [Apartments.com](https://www.apartments.com/the-orsini-los-angeles-ca/y1q1mqv/) · [Yelp](https://www.yelp.com/biz/orsini-apartments-los-angeles)
 
+### 自动监控新增（2026-10-01）
+
+- [2026-10-01] [Medici (725 S Bixel St) — 1B1B $2,100+](https://www.apartments.com/medici-los-angeles-ca/ln7xd0d/) — Studio/1B1B（1BD 617–699 sq ft）/ ⚠️ 问起租日期（当前约 22 个 1BD 单元在租，Fall 2026 可排期需确认）/ 来源: WebSearch + Craigslist-lac（[原帖](https://losangeles.craigslist.org/lac/apa/d/los-angeles-business-center-on-call/7925683625.html)）/ 地址 725 S Bixel St, LA 90017（DTLA/City West，步行约 10–12 min 至 7th St/Metro Center → E Line → USC 约 25 min）；与 The Orsini 同为 GHP/Palmer 系大型社区：屋顶泳池 + 桑拿/蒸汽房 + 24h 健身房 + 网球/排球场；1BD $2,100 起（各平台区间 $1,740–$2,520）；非黑名单；⚠️ 无 SSN 押金政策需直接问 leasing；不计入今日新增（无具体发布日期）— [Zillow（6 units）](https://www.zillow.com/apartments/los-angeles-ca/the-medici/5XjT6B/) · [RentCafe](https://www.rentcafe.com/apartments/ca/los-angeles/medici-0/default.aspx)
+
 ---
 
 ## 4. San Gabriel / Rosemead / Alhambra（华人友好，更便宜，通勤 70–110 min）
@@ -386,6 +390,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
+
+### 自动监控新增（2026-10-01）
+
+- [2026-10-01] [Alhambra 全新装修独立后屋 Studio — $1,600/月（含水电网）](https://www.chineseinla.com/f/page_viewtopic/t_3096836.html) — Studio（约 150 sq ft，偏小）/ ⚠️ 问起租日期（短租 3 个月起亦可，$80/天）/ 来源: WebSearch/ChineseInLA（帖子 ID 晚于 7/6 上次记录的全部帖子，为近期新帖，但确切发帖日期无法核实——站点屏蔽云端 IP）/ 地址 2550 Loma Vista Dr, Alhambra（近 Cal State LA，I-10/I-710 便利；Alhambra 在通勤白名单内）；独立出入 + 独立卫浴 + 简易厨房；全家具拎包入住；指定室外车位；共用洗烘；水电 + 高速网全包；私人房东（非黑名单），联系 Zhao 先生 323-228-6211（短信）；⚠️ 面积仅约 150 sq ft，看房时确认实际居住空间；⚠️ 押金倍数需直接询问；不计入今日新增（无具体发布日期）
 
 ---
 
