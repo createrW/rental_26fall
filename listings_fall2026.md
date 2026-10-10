@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-10　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-10）
+
+- [2026-10-10] [1166½ W 29th St Unit 110 — Studio $1,299](https://www.rentable.co/los-angeles-ca/1166-1-2-w-29th-st) — Studio（仅 **150 sq ft 微型单间**，注意面积极小）/ 起租 **2026-08-10**（Rentable 标注，今日已过该日期，⚠️ 致电确认是否仍可租或可排 Spring 2027）/ 来源: WebSearch/Rentable / 地址 1166½ W 29th St, LA 90007（University Park，USC DPS Zone 内，步行约 8–10 min）；管理方 1166 W. 29th St., LLC（私人业主 LLC，非黑名单）；联系 (323) 996-4719；同址另有 ADU 约 $1,000 起及多卧室户型；⚠️ 价格远低于区域均价（LA studio 均价 $1,853），结合 150 sq ft 面积合理但务必实地看房；⚠️ 无 SSN 押金政策需电话确认；不计入今日新增（聚合站无原始发布日期）
+- [2026-10-10] [2376 Portland St (Red Oak) — Studio $1,950](https://edge.apartmentiq.io/los-angeles-ca/2386-portland-st) — Studio / ⚠️ 问起租日期（页面标注 "Updated 15 hours ago"，多个同楼 studio 已标 rented，需确认剩余单元）/ 来源: WebSearch/ApartmentIQ / 地址 2376 Portland St, LA 90007（USC DPS Zone 内，步行可达）；管理方 Red Oak Property Management（非黑名单）；采光好大窗 + SS 电器 + 现场洗衣 + **含停车位**；联系 (424) 400-7010；⚠️ **注意区分：同街 2356 Portland St 为 Stuho 旗下黑名单物业（Amber Student $2,200 起挂牌），勿混淆**；⚠️ 无 SSN 押金政策需电话确认；不计入今日新增（聚合站 updated 日期非原始发布日期）
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -349,6 +354,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-07）
 
 - [2026-06-07] [Maxfield Lofts DTLA — Studio $1,920+ / 当前促销 2 个月免租](https://www.themaxla.com/) — Studio 662–951 sq ft / 1BR / ⚠️ 问起租日期（官网 + Apartments.com 显示当前活跃）/ 来源: WebSearch / 地址 819 Santee St, LA 90014（DTLA Fashion District；步行约 0.4 mile 至 7th St/Metro Center → E Line 至 USC，约 20 min）；1927 年 Art-Deco 历史建筑，14 层 96 units；屋顶露台 + 健身中心 + 宠物友好；当前促销：**2 个月免租 或 1 年免费停车**（13 个月 lease，折合月租约 $1,774 起）；非黑名单；⚠️ 无 SSN 押金政策未知，需直接询问；不计入今日新增（无具体发布日期）— [Apartments.com](https://www.apartments.com/maxfield-lofts-los-angeles-ca/qtmfpcz/) · [WestsideRentals](https://www.westsiderentals.com/los-angeles-ca/maxfield-lofts-qtmfpcz) · [Rent.com](https://www.rent.com/apartment/maxfield-lofts-los-angeles-ca-lc6039161)
+
+### 自动监控新增（2026-10-10）
+
+- [2026-10-10] [Charming Studio DTLA South Park — $1,350（net effective $1,238 含 1 月免租）](https://www.craigslist.org/view/d/los-angeles-charming-studio-functional/9RHHaxaG4Zm7bUkXERLUtn) — Studio 约 400 sq ft / 起租：**立即可入住**（listing 标 available now）/ 来源: WebSearch/Craigslist（新版分享链接格式）/ DTLA South Park（E Line 直达 USC 约 15–20 min）；12 个月 lease 送 1 个月免租（标价 $1,350，折合净月租 $1,238）；楼内洗衣；**无停车位**；⚠️ WebFetch 被屏蔽无法核实发布日期及具体地址；⚠️ 无 SSN 押金政策需联系确认；非黑名单；不计入今日新增（无法核实发布日期）
 
 ### 自动监控新增（2026-05-21）
 
