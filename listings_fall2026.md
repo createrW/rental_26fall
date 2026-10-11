@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-11　今日新增 0 条（另录入 2 条无发布日期的 USC 区候选，见 2026-10-11 小节）**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -195,6 +195,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-27）
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
+### 自动监控新增（2026-10-11）
+
+- [2026-10-11] [1137 W 36th Pl Unit 1 — Studio $1,850](https://www.apartments.com/1137-w-36th-pl-los-angeles-ca-unit-1/4dms93l/) — Studio（~600 sqft, 1BA）/ Available Now + pre-leasing Fall 2026 / 来源: WebSearch（Apartments.com + Westside Rentals + ForRentUniversity 三源交叉确认）/ 地址 1137 W 36th Pl, LA 90007，**紧邻 USC 校园正对面**（University Park, DPS 区内）；1984 年公寓楼；**押金 $1,850 = 1x 月租**（refundable security deposit，对无 SSN 非常友好 ✅）；Unit 3 同户型同价；联系电话 310-466-0585；非黑名单；⚠️ 详情页被代理屏蔽，无法核实发布日期，不计入今日新增 — [Westside Rentals Unit 3](https://www.westsiderentals.com/los-angeles-ca/1137-w-36th-pl-unit-3-3h21v2e) · [ForRentUniversity](https://www.forrentuniversity.com/ca/los-angeles/1137-w-36th-pl/jdmsf37)
+- [2026-10-11] [1259 W 35th St — Renovated Studio $1,495](https://www.westsiderentals.com/los-angeles-ca/1259-w-35th-st-q7thmsy) — Studio / **明确标注 "for USC 26-27 school year"** / 来源: WebSearch（Westside Rentals，两次独立查询确认）/ 地址 1259 W 35th St, LA 90007，距 USC 约 0.4 mile，**DPS + Fryft 区内**；翻新 studio，**含 1 个门控停车位**；No Pets；12 个月租约；⚠️ 押金倍数未知（无 SSN 需直接问）；非黑名单；⚠️ 详情页被代理屏蔽，无法核实发布日期，不计入今日新增
 
 ---
 
