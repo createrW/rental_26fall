@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-12　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -195,6 +195,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-27）
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
+### 自动监控新增（2026-10-12）
+
+- [2026-10-12] [1248½ W 24th St — Studio $1,750](https://offcampushousing.cdrewu.edu/housing/property/1248-1-2-w-24th-st/ksj6hhc) — Studio / ⚠️ 问起租日期（页面标 "Available Now"，未标具体日期）/ 来源: WebSearch（Charles Drew University off-campus housing 门户，与 USC offcampus 同引擎）/ 地址 1248½ W 24th St, LA（North University Park，**USC campus security zone 内**，距两个 USC tram 站不到 1 个街区）；12 个月租期；**押金 $1,750 = 1x 月租 ✓**（对无 SSN 友好信号，仍需确认）；非黑名单；⚠️ 本次运行出口代理拒绝该域名，无法核实当前状态，联系前先确认是否仍在租；不计入今日新增（无发布日期）
+- [2026-10-12] [2626 S Budlong Ave — 1BD/1BA $925](https://www.apartments.com/listing/1tjhlh7) — 1B1B / 租期 2026-08-01 ~ 2027-07-20（明确 2026-2027 学年整租期 ✓）/ 来源: WebSearch/Apartments.com / 地址 2626 S Budlong Ave, LA（University Park / West Adams 交界，USC 西侧）；⚠️ $925 的 1BD 价格异常低，可能为按人计价合租或 ADU，且起租日已过（可能已出租），务必先电话确认；⚠️ 无 SSN 押金政策未知；Apartments.com 对云端 IP 403，无法核实；非黑名单；不计入今日新增（无法核实发布日期）
 
 ---
 
