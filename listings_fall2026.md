@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-14　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,13 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-14）
+
+- [2026-10-14] [1259 W 35th St — Renovated Studio — $1,495/mo](https://www.westsiderentals.com/los-angeles-ca/1259-w-35th-st-q7thmsy) — Studio / 2026-27 学年（12 个月 lease）/ 来源: WebSearch/WestsideRentals / 距 USC 0.4 mi，**在 DPS Patrol Zone + Fryft Zone 内**，含一个门禁停车位；明确面向 USC 2026-27 学年；非黑名单；⚠️ 代理屏蔽无法核实详情页发布日期及押金政策，不计入今日新增
+- [2026-10-14] [1137 W 36th Pl Unit 3 — Remodeled Studio — $1,850/mo](https://www.apartments.com/1137-w-36th-pl-los-angeles-ca-unit-1/4dms93l/) — Studio / 即时入住或 Fall 2026 pre-leasing / 来源: WebSearch/Apartments.com / USC 校园正对面（across the street）；全面翻新；另见 [WestsideRentals 同房源](https://www.westsiderentals.com/los-angeles-ca/1137-w-36th-pl-unit-3-3h21v2e)；非黑名单；⚠️ 代理屏蔽无法核实详情页日期及押金政策，不计入今日新增
+- [2026-10-14] [1166 ½ W 29th St — Studio $1,299 / ADU $1,000](https://www.rentable.co/los-angeles-ca/1166-1-2-w-29th-st) — Studio/ADU / 标注 Available Aug 1, 2026（⚠️ 该日期已过，需确认当前是否仍可租）/ 来源: WebSearch/Rentable / University Park，近 USC；非黑名单；⚠️ 代理屏蔽无法核实详情页，不计入今日新增
+- [2026-10-14] [3551 S Western Ave — Studio — $925/mo 含水费](https://www.rentable.co/los-angeles-ca/3551-s-western-ave) — Studio / 标注 Available Aug 10, 2026（⚠️ 该日期已过，需确认当前是否仍可租）/ 来源: WebSearch/Rentable / West Adams–Exposition Park 西侧（Western Ave，近 Expo Line）；楼内洗衣房；**本批最低价**；非黑名单；⚠️ 代理屏蔽无法核实详情页，不计入今日新增
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -304,6 +311,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [Arwyn Manor Apts — NY Style — Gorgeous Studio (1920s Art Deco) — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-arwyn-manor-aptsny/7859582931.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；1920 年代 Art Deco 建筑，全面翻新 studio；WebFetch 403 无法核实价格及发布日期；非黑名单；不计入今日新增
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-10-14）
+
+- [2026-10-14] [728 S Berendo St — Studio $1,535 / 1BR $1,895（1 个月免租）](https://edge.apartmentiq.io/los-angeles-ca/728-s-berendo-st) — Studio/1B1B / ⚠️ 问起租日期 / 来源: WebSearch/ApartmentIQ / K-town 核心（Berendo St，近 Wilshire/Vermont D Line 站）；当前促销 one month free；非黑名单；⚠️ 代理屏蔽无法核实详情页日期及押金政策，不计入今日新增
 
 ---
 
