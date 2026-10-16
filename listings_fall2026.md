@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-16　今日新增 0 条（另有 4 条未验证候选，见各区 2026-10-16 小节）**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-16）
+
+- [2026-10-16] [1166½ W 29th St — Studio $1,299](https://www.rentable.co/los-angeles-ca/1166-1-2-w-29th-st) — Studio / 起租 2026-08-10（搜索缓存显示 "unit available Aug 10th, 2026"）/ 来源: WebSearch/Rentable / University Park，W 29th St 近 USC（DPS 区内，步行可达）；同楼另有约 $1,000/月 的 1BR ADU；非黑名单；⚠️ 详情页无法打开（本环境网络屏蔽 Rentable），租金/可租状态/押金均未验证，需手动打开确认；⚠️ 问押金倍数（无 SSN）；不计入今日新增
+- [2026-10-16] [1137 W 36th Pl Unit 1 — Studio $1,850](https://www.apartments.com/1137-w-36th-pl-los-angeles-ca-unit-1/4dms93l/) — Studio ~600 sq ft / 起租：immediate move-in 或 pre-leasing Fall 2026 / 来源: WebSearch/Apartments.com / University Park，W 36th Pl 正对 USC 校园（"directly across the street from USC campus"）；另见 [WestsideRentals 同址 Unit 3](https://www.westsiderentals.com/los-angeles-ca/1137-w-36th-pl-unit-3-3h21v2e)；非黑名单；⚠️ 详情页 403/屏蔽无法验证，押金政策未知；⚠️ 问押金倍数（无 SSN）；不计入今日新增
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -354,6 +359,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-21] [The Orsini DTLA — Studio $2,029+](https://losangeles.craigslist.org/lac/apa/d/los-angeles-karaoke-lounge-studio-in/7855668799.html) — Studio 479 sq ft+ / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch/Craigslist-lac / 地址 505 N Figueroa St, LA 90012（DTLA Bunker Hill；步行约 14 min 至 7th St/Metro Center → E Line → USC 约 25 min）；大型奢华社区：Jr. Olympic 泳池 + 屋顶泳池/SPA + Karaoke 室 + 影院 + BBQ；Yelp **2026 年 5 月已更新**（707 条评价），活跃挂牌；非黑名单；Studio 折后约 $2,029–$2,199/月起；⚠️ 之前曾有"4 月前入住 12 周免租"活动，Fall 2026 促销需重新确认；⚠️ 无 SSN 押金政策需直接致电 (213) 267-9137；不计入今日新增 — [官网](https://www.theorsini.com/) · [Apartments.com](https://www.apartments.com/the-orsini-los-angeles-ca/y1q1mqv/) · [Yelp](https://www.yelp.com/biz/orsini-apartments-los-angeles)
 
+### 自动监控新增（2026-10-16）
+
+- [2026-10-16] [DTLA South Park — Charming Studio $1,350（12 个月 lease 一个月免租，折合 $1,238/月）](https://www.craigslist.org/view/d/los-angeles-charming-studio-functional/9RHHaxaG4Zm7bUkXERLUtn) — Studio ~400 sq ft / 起租 Available Now（2026-10 当前可入住）/ 来源: WebSearch/Craigslist / DTLA South Park（E Line 直达 USC）；1 楼、门禁、楼内洗衣房、无停车位；非黑名单；⚠️ 详情页被屏蔽无法打开验证（含发布日期），Craigslist 房源务必实地看房后再交任何费用；⚠️ 问押金倍数（无 SSN）；不计入今日新增
+
 ---
 
 ## 4. San Gabriel / Rosemead / Alhambra（华人友好，更便宜，通勤 70–110 min）
@@ -484,3 +493,6 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-04-30）
 
 - [2026-04-30] [Drake Real Estate Group — Studio/1bd 问价](https://www.drakereg.com/for-lease) — Studio/1bd / ⚠️ 问起租日期 + 具体单元及价格 / 来源: WebSearch（Yelp 已注明 "Updated April 2026"）/ 旗下物业含 249 S Coronado St（ZIP 90057，Historic Filipinotown / Westlake，白名单区域）；描述含 "brand new loft style studio" 及 1bd，近 Koreatown / USC（约 3 英里）/ DTLA；非黑名单；联系 (310) 893-3335 / jeriagent@drakereg.com；⚠️ 无具体发布日期 + 2639 Monmouth Ave（同街区另一房源）已确认为 **Stuho 旗下黑名单物业**（需与 Drake REG 区分开）；⚠️ 不计今日新增 — [Apartments.com](https://www.apartments.com/249-s-coronado-st-los-angeles-ca/1hqmkx6/) · [Yelp](https://www.yelp.com/biz/drake-real-estate-group-los-angeles)
+### 自动监控新增（2026-10-16）
+
+- [2026-10-16] [3551 S Western Ave — Studio $925](https://www.rentable.co/los-angeles-ca/3551-s-western-ave) — Studio / 起租 2026-08-10（搜索缓存显示 "August 10, 2026 move-in"）/ 来源: WebSearch/Rentable / West Adams（S Western Ave，公交/E Line Expo-Western 站至 USC 约 15–25 min）；本片区罕见 $1,000 以下 studio；非黑名单；⚠️ 详情页无法打开（本环境网络屏蔽 Rentable），价格异常低需警惕、务必实地核实；⚠️ 问押金倍数（无 SSN）；不计入今日新增
