@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-18　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,17 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-18）
+
+> ⚠️ 本次运行环境网络策略已收紧：所有房源站 WebFetch 均被拦截（connect_rejected，非单纯 403），以下条目均仅基于 Google 搜索摘要，发布日期一律无法核实，全部不计入今日新增。
+
+- [2026-10-18] [1259 W 35th St — Renovated Studio — $1,495](https://www.westsiderentals.com/los-angeles-ca/1259-w-35th-st-q7thmsy) — Studio / **挂牌明确写"USC 26-27 school year"12 个月 lease** / 来源: WebSearch/WestsideRentals / North University Park（距 USC 约 0.4 mile，DPS + Fryft Zone 内）；含 1 个门禁停车位；全面翻新；私人房东（预约看房需自我介绍，无 SSN 可当面沟通）；非黑名单；⚠️ 无法核实发布日期 + 押金政策，不计入今日新增
+- [2026-10-18] [1166½ W 29th St — Studio $1,299](https://www.rentable.co/los-angeles-ca/1166-1-2-w-29th-st) — Studio / 起租 **2026-08-10**（页面近期更新，需确认是否仍可用）/ 来源: WebSearch/Rentable / University Park（29th St，USC DPS Zone 内步行可达）；同址另有多套 $1,000 ADU 1BR（Aug 2026 起租）；相邻 [1166 W 29th St](https://www.rentable.co/los-angeles-ca/1166-w-29th-st) 同房东多 unit；非黑名单；⚠️ 无法核实发布日期，不计入今日新增
+- [2026-10-18] [1026 W 22nd St — Studio $1,220–$1,495（含水电）](https://www.rentable.co/los-angeles-ca/1026-w-22nd-st) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Rentable / University Park 北缘（22nd St，USC 步行约 15–20 min 或公交）；**utilities included**（实际净成本低）；页面显示多数 unit 已租、仍有 1 套可用 + 另一套 $1,395–$1,495；非黑名单；⚠️ 无法核实发布日期，不计入今日新增
+- [2026-10-18] [2600 S Catalina St — Studio $2,215+（1 个月免租）](https://www.westsiderentals.com/los-angeles-ca/2600-s-catalina-st-mbld6pj) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/WestsideRentals / USC DPS + Free Lyft Zone 内（Catalina St）；当前促销 1 个月免租；价格偏高；非黑名单；⚠️ 无法核实发布日期，不计入今日新增
+- [2026-10-18] [3551 S Western Ave — Studio $925](https://www.rentable.co/los-angeles-ca/3551-s-western-ave) — Studio / 起租 **2026-08-10**（已过，需确认是否仍可用）/ 来源: WebSearch/Rentable / West Adams 东缘 / Exposition Park 西（Western & 35th，USC 公交或 Expo Line 约 15–25 min）；**$925 为本清单最低价 studio**，警惕条件：实地验房、确认非地下室/无窗；非黑名单；⚠️ 无法核实发布日期，不计入今日新增
+- [2026-10-18] 📌 **USC Housing 官方研究生房 2026-27 已公布价目**（[housing.usc.edu](https://housing.usc.edu/?p=94)）：bachelor $1,500/月、**studio $1,675/月（仅 17 个名额）**、1BR 双人 $1,200/人/月 — 官方渠道**无押金倍数/SSN 问题**，强烈建议同步申请排队作为保底
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -384,6 +395,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 > **通勤提示**：San Gabriel/Rosemead 到 USC 走 Metro 76/70 → Union Station → ICS shuttle → USC，约 80–100 分钟。住 Alhambra 西侧最优。
 
 ### 自动监控新增（2026-05-05）
+
+### 自动监控新增（2026-10-18）
+
+- [2026-10-18] [2241–2243 San Gabriel Blvd, Rosemead — Studio $1,600（押金 $1,600 = 1x）](https://www.rentable.co/monterey-park-ca/2241-san-gabriel-blvd-unit-2243-1-4) — Studio 250 sq ft / 当前可入住 / 来源: WebSearch/Rentable / Rosemead（San Gabriel Blvd，Metro 76/70 → Union Station → ICS 约 80–100 min）；**押金 = 1x 月租**（对无 SSN 非常友好的信号）；面积较小（250 sq ft）；非黑名单；⚠️ 无法核实发布日期，不计入今日新增
+- [2026-10-18] [6933 N Rosemead Blvd, San Gabriel — 1B1B $1,900](https://www.rentable.co/san-gabriel-ca/6933-rosemead-blvd) — 1B1B 515 sq ft / 当前可入住 / 来源: WebSearch/Rentable / San Gabriel（Rosemead Blvd，通勤约 80–100 min）；同街另有 [6825 Rosemead Blvd](https://www.rentable.co/san-gabriel-ca/6825-rosemead-blvd) 多 unit 可比价；非黑名单；⚠️ 无法核实发布日期 + 押金政策，不计入今日新增
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
 
