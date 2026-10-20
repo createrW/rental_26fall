@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-20　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-20）
+
+- [2026-10-20] [1166½ W 29th St — Studio $1,299](https://www.rentable.co/los-angeles-ca/1166-1-2-w-29th-st) — Studio / 起租 2026-08-10（Rentable 标注）/ 来源: WebSearch/Rentable / University Park 29th St（USC DPS Zone 内或附近，步行可达）；同房源另有 $1,000 ADU 及 $999 学生房单间（非 studio，不符类型）；⚠️ rentable.co 域名被代理屏蔽无法打开详情页，当前在租状态及发布日期无法核实；⚠️ 同街已有 CL 帖 7855602053（Student Housing on 29th St），可能同一运营方，联系前先确认非重复；非黑名单；⚠️ 无 SSN 押金政策需直接问；不计入今日新增（无法核实发布日期）
+- [2026-10-20] [3551 S Western Ave — Studio $925 + 附带车库](https://www.rentable.co/los-angeles-ca/3551-s-western-ave) — Studio / 起租 2026-08-10（Rentable 标注）/ 来源: WebSearch/Rentable / 3551 S Western Ave（West Adams/Exposition Park 西缘，USC 以西约 1.2 mi，Expo/Western E Line 站步行可达 → USC 1 站）；$925 为今日检索最低价 studio，含 attached garage 车位选项；⚠️ 价格明显低于区域中位（$1,400–1,900），看房时注意房况与安全；⚠️ 域名被屏蔽无法核实详情及发布日期；非黑名单；不计入今日新增
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -305,6 +310,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
 
+### 自动监控新增（2026-10-20）
+
+- [2026-10-20] [728 S Berendo St — Studio $1,535（有 move-in 优惠）](https://edge.apartmentiq.io/los-angeles-ca/728-s-berendo-st) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/ApartmentIQ / 728 S Berendo St, K-town 核心（Wilshire/Vermont B/D Line 站步行约 5 min → 7th St → E Line → USC 约 30 min）；标注有 move-in concession（具体优惠需问）；⚠️ apartmentiq 域名被屏蔽无法核实详情及发布日期；非黑名单；⚠️ 无 SSN 押金政策需直接问；不计入今日新增
+- [2026-10-20] [4270 W 4th St — Studio $1,395 / 1B1B $1,475](https://edge.apartmentiq.io/los-angeles-ca/4270-w-4th-st) — Studio + 1B1B / ⚠️ 问起租日期 / 来源: WebSearch/ApartmentIQ / 4270 W 4th St（K-town 西缘，近 Normandie/Wilshire）；studio $1,395、1B1B $1,475，均低于 K-town 中位；⚠️ 域名被屏蔽无法核实详情及发布日期；非黑名单；不计入今日新增
+
 ---
 
 ## 3. DTLA（次首选 — E Line 直达 USC ~15 min）
@@ -354,6 +364,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-21] [The Orsini DTLA — Studio $2,029+](https://losangeles.craigslist.org/lac/apa/d/los-angeles-karaoke-lounge-studio-in/7855668799.html) — Studio 479 sq ft+ / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch/Craigslist-lac / 地址 505 N Figueroa St, LA 90012（DTLA Bunker Hill；步行约 14 min 至 7th St/Metro Center → E Line → USC 约 25 min）；大型奢华社区：Jr. Olympic 泳池 + 屋顶泳池/SPA + Karaoke 室 + 影院 + BBQ；Yelp **2026 年 5 月已更新**（707 条评价），活跃挂牌；非黑名单；Studio 折后约 $2,029–$2,199/月起；⚠️ 之前曾有"4 月前入住 12 周免租"活动，Fall 2026 促销需重新确认；⚠️ 无 SSN 押金政策需直接致电 (213) 267-9137；不计入今日新增 — [官网](https://www.theorsini.com/) · [Apartments.com](https://www.apartments.com/the-orsini-los-angeles-ca/y1q1mqv/) · [Yelp](https://www.yelp.com/biz/orsini-apartments-los-angeles)
 
+### 自动监控新增（2026-10-20）
+
+- [2026-10-20] [Charming Studio — South Park DTLA — $1,350（12 个月租约送 1 个月，实际约 $1,238/mo）](https://www.craigslist.org/view/d/los-angeles-charming-studio-functional/9RHHaxaG4Zm7bUkXERLUtn) — Studio 约 400 sq ft / 标注 available now / 来源: WebSearch/Craigslist（镜像链接）/ South Park DTLA（E Line Pico 站步行可达 → USC 约 15 min）；门禁 + 现场洗衣；⚠️ 无车位；带炉灶 + 冰箱；⚠️ Craigslist 被屏蔽无法核实发布日期；非黑名单；⚠️ 无 SSN 押金政策需直接问；不计入今日新增
+- [2026-10-20] [1220 S Olive St #305 — 1B1B $1,695](https://www.rentable.co/los-angeles-ca/1220-s-olive-st-unit-305) — 1B1B / 标注 available now / 来源: WebSearch/Rentable / 1220 S Olive St, South Park DTLA（E Line Pico 站步行约 8 min → USC 约 15 min）；$1,695 低于 DTLA 1BR 中位（~$2,100+）；⚠️ 域名被屏蔽无法核实详情及发布日期；非黑名单；不计入今日新增
+
 ---
 
 ## 4. San Gabriel / Rosemead / Alhambra（华人友好，更便宜，通勤 70–110 min）
@@ -386,6 +401,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
+
+### 自动监控新增（2026-10-20）
+
+- [2026-10-20] [2241 San Gabriel Blvd（#2243¼）— Studio $1,600](https://www.rentable.co/monterey-park-ca/2241-san-gabriel-blvd-unit-2243-1-4) — Studio 250 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Rentable / 2241 San Gabriel Blvd, Monterey Park（近 Rosemead 边界；Metro 76 → Union Station → ICS/E Line → USC 约 80–100 min）；同址 1B1B 已标 rented；⚠️ 250 sq ft 偏小且 $1,600 对该面积偏贵，对比时注意性价比；⚠️ 域名被屏蔽无法核实详情及发布日期；非黑名单；不计入今日新增
+- [2026-10-20] [6933 N Rosemead Blvd — 1B1B $1,900](https://www.rentable.co/san-gabriel-ca/6933-rosemead-blvd) — 1B1B 515 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Rentable / 6933 N Rosemead Blvd, San Gabriel（Metro 76/70 → Union Station → USC 约 80–90 min；近已收录 The Jade 同一路段）；标注 1 间在租；同楼 studio $1,550 已标 rented；⚠️ 域名被屏蔽无法核实详情及发布日期；非黑名单；不计入今日新增
 
 ---
 
