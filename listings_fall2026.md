@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-28　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,14 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-28）
+
+- [2026-10-28] [1166 W 29th St — Studio $1,339（utilities + WiFi 全含）](https://www.rentable.co/los-angeles-ca/1166-w-29th-st) — Studio 140 sq ft / 标注 avail 8/10/2026（日期已过，问当前/春季空房）/ 来源: WebSearch/Rentable / North University Park，页面明示 **正接受 2026-2027 学年申请**；含水电网 WiFi + 现场洗衣；⚠️ 与已追踪 06-07「29th St Prime Location 问价」可能为同一或邻近楼，联系时核对地址；WebFetch 被网络策略拦截无法核实发布日期；非黑名单；⚠️ 问起租日期；不计入今日新增
+- [2026-10-28] [710 W 27th St — 翻新 1BR $1,850](https://www.rentable.co/los-angeles-ca/710-w-27th-st) — 1B1B / 标注 avail 7/15/2026（日期已过，问当前空房；页面曾显示"4 units left"）/ 来源: WebSearch/Rentable / University Park（USC 步行可达，近 West 27th Place 街区）；翻新单元；非黑名单；⚠️ 无 SSN 押金政策 + 起租日期需直接问；WebFetch 被网络策略拦截无法核实发布日期；不计入今日新增
+- [2026-10-28] [2642 Ellendale Pl — Studio（含独立卫浴）$1,700](https://www.rentler.com/places-for-rent/ca/los-angeles/2642-ellendale-place/11830195) — Studio / 标注 avail 8/17/2026（日期已过，问当前空房）/ 来源: WebSearch/Rentler / University Park，USC 步行约 10 min / 车程 5 min；**注意：与已追踪 Trojan Terrace（2632 Ellendale）、Trojan Plaza（2727）、University Manor（2700）同街不同楼**；非黑名单；⚠️ 问起租日期 + 无 SSN 押金政策；不计入今日新增
+- [2026-10-28] [1248½ W 24th St — Studio $1,750（押金仅 1x ✅）](https://offcampushousing.cdrewu.edu/housing/property/1248-1-2-w-24th-st/ksj6hhc) — Studio 220 sq ft / 标注 available now / 来源: WebSearch/OCH 数据库 / **USC campus security zone 内**，距 2 个 USC tram 站不到一个街区；12 个月 lease，**押金 $1,750 = 1x 月租**（对无 SSN 极友好，远低于常见 2x/3x）；房东付水 + 气 + 垃圾（电自付）；非黑名单；⚠️ 问 Fall/当前起租排期；WebFetch 被网络策略拦截无法核实发布日期；不计入今日新增
+- [2026-10-28] [1026 W 22nd St — Studio $1,220–$1,495](https://www.rentable.co/los-angeles-ca/1026-w-22nd-st) — Studio / 多单元（部分已标 rented）/ 来源: WebSearch/Rentable / University Park 北缘（USC 步行约 15–20 min）；部分单元含 utilities + move-in special；价格为 USC 周边较低档；非黑名单；⚠️ 问起租日期 + 剩余空房 + 无 SSN 押金政策；不计入今日新增
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -305,6 +313,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
 
+### 自动监控新增（2026-10-28）
+
+- [2026-10-28] [4270 W 4th St — Studio $1,395 / 1BR $1,475](https://edge.apartmentiq.io/los-angeles-ca/4270-w-4th-st) — Studio + 1B1B / 标注 available now / 来源: WebSearch / K-town 西侧 4th St（近 Wilshire/Western D Line，换乘 → 7th St → E Line 至 USC 约 35 min）；studio 与 1BR 均在 K-town 低价档；非黑名单；⚠️ 问起租排期 + 无 SSN 押金政策；WebFetch 被网络策略拦截无法核实发布日期；不计入今日新增
+
 ---
 
 ## 3. DTLA（次首选 — E Line 直达 USC ~15 min）
@@ -354,6 +366,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-21] [The Orsini DTLA — Studio $2,029+](https://losangeles.craigslist.org/lac/apa/d/los-angeles-karaoke-lounge-studio-in/7855668799.html) — Studio 479 sq ft+ / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch/Craigslist-lac / 地址 505 N Figueroa St, LA 90012（DTLA Bunker Hill；步行约 14 min 至 7th St/Metro Center → E Line → USC 约 25 min）；大型奢华社区：Jr. Olympic 泳池 + 屋顶泳池/SPA + Karaoke 室 + 影院 + BBQ；Yelp **2026 年 5 月已更新**（707 条评价），活跃挂牌；非黑名单；Studio 折后约 $2,029–$2,199/月起；⚠️ 之前曾有"4 月前入住 12 周免租"活动，Fall 2026 促销需重新确认；⚠️ 无 SSN 押金政策需直接致电 (213) 267-9137；不计入今日新增 — [官网](https://www.theorsini.com/) · [Apartments.com](https://www.apartments.com/the-orsini-los-angeles-ca/y1q1mqv/) · [Yelp](https://www.yelp.com/biz/orsini-apartments-los-angeles)
 
+### 自动监控新增（2026-10-28）
+
+- [2026-10-28] [Charming Studio — South Park DTLA — 净租 $1,238（1 个月免租）](https://www.craigslist.org/view/d/los-angeles-charming-studio-functional/9RHHaxaG4Zm7bUkXERLUtn) — Studio ~400 sq ft / 标注 available now / 来源: WebSearch/Craigslist / DTLA South Park（E Line 直达 USC 约 15 min）；12 个月 lease + 1 个月免租 → net effective $1,238/月（原价 $1,350）；现场洗衣 + 现场经理 + 门禁；**无停车位**；非黑名单；⚠️ 问起租排期 + 无 SSN 押金政策；Craigslist 无法直接核实发布日期；不计入今日新增
+
 ---
 
 ## 4. San Gabriel / Rosemead / Alhambra（华人友好，更便宜，通勤 70–110 min）
@@ -386,6 +402,12 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-05-05）
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
+
+### 自动监控新增（2026-10-28）
+
+- [2026-10-28] [Woodside Terrace（400 N Chapel Ave, Alhambra）— 1BR $2,270–$2,280](https://losangeles.craigslist.org/sgv/apa/d/alhambra-package-locker-system-laundry/7881805809.html) — 1B1B ~700 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-sgv / Alhambra 市中心北侧（公交 → USC 约 70–90 min）；电梯楼 + 庭院 + package locker + 洗衣中心 + covered parking；同楼另一帖：[7878839161](https://losangeles.craigslist.org/sgv/apa/d/alhambra-courtyard-with-park-like/7878839161.html)（$2,280）；非黑名单；⚠️ 无 SSN 押金政策需问；WebFetch 403 无法核实发布日期；不计入今日新增
+- [2026-10-28] [2241 San Gabriel Blvd #2243（Rosemead）— Studio $1,600](https://www.rentable.co/monterey-park-ca/2241-san-gabriel-blvd-unit-2243-1-4) — Studio ~250 sq ft（triplex）/ ⚠️ 问起租日期 / 来源: WebSearch/Rentable / Rosemead/Monterey Park 边界，近 10 号高速，周边餐馆超市多；猫狗友好；面积偏小但价格低；非黑名单；⚠️ 无 SSN 押金政策需问；不计入今日新增
+- [2026-10-28] [6933 N Rosemead Blvd（San Gabriel）— 翻新 1BR $1,900](https://www.rentable.co/san-gabriel-ca/6933-rosemead-blvd) — 1B1B 515 sq ft / ⚠️ 问起租日期 / 来源: WebSearch/Rentable / San Gabriel（**注意：与已追踪 The Jade 6343-6359 Rosemead Blvd 同路不同楼**）；全面翻新 + 现场洗衣 + 车库可选；非黑名单；⚠️ 无 SSN 押金政策需问；不计入今日新增
 
 ---
 
@@ -484,3 +506,7 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-04-30）
 
 - [2026-04-30] [Drake Real Estate Group — Studio/1bd 问价](https://www.drakereg.com/for-lease) — Studio/1bd / ⚠️ 问起租日期 + 具体单元及价格 / 来源: WebSearch（Yelp 已注明 "Updated April 2026"）/ 旗下物业含 249 S Coronado St（ZIP 90057，Historic Filipinotown / Westlake，白名单区域）；描述含 "brand new loft style studio" 及 1bd，近 Koreatown / USC（约 3 英里）/ DTLA；非黑名单；联系 (310) 893-3335 / jeriagent@drakereg.com；⚠️ 无具体发布日期 + 2639 Monmouth Ave（同街区另一房源）已确认为 **Stuho 旗下黑名单物业**（需与 Drake REG 区分开）；⚠️ 不计今日新增 — [Apartments.com](https://www.apartments.com/249-s-coronado-st-los-angeles-ca/1hqmkx6/) · [Yelp](https://www.yelp.com/biz/drake-real-estate-group-los-angeles)
+
+### 自动监控新增（2026-10-28）
+
+- [2026-10-28] [3551 S Western Ave — Studio $925](https://www.rentable.co/los-angeles-ca/3551-s-western-ave) — Studio / 标注 avail 8/10/2026（日期已过，问当前空房）/ 来源: WebSearch/Rentable / Western Ave & 35th St（Exposition Park 西 / West Adams 东南缘，90018；公交/Expo Line 至 USC 约 15–20 min）；**$925 为全表最低价** — 价格异常低，看房前务必核实真实性（低价钓鱼帖常见），坚持实地看房 + 不提前转账；非黑名单；⚠️ 问起租日期 + 无 SSN 押金政策；WebFetch 被网络策略拦截无法核实发布日期；不计入今日新增
