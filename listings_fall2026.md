@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-10-30　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -196,6 +196,19 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
 
+### 自动监控新增（2026-10-30）
+
+> ⚠️ 本日所有条目的"起租/可入住日期"多为 2026 年 8 月，现已过期——单元可能已租出，也可能仍空置（空置则议价空间更大）。联系时直接问"当前是否可入住 + 最早起租日"。
+
+- [2026-10-30] [Studio 42 (2642 Ellendale Pl) — Studio $1,700–$1,750](https://www.apartments.com/2642-ellendale-pl-los-angeles-ca/lgyx62g/) — Studio 257–298 sq ft / ⚠️ 原标 2026-08-10/08-17 起租（已过，问当前空置）/ 来源: WebSearch / 地址 2642 Ellendale Pl, LA 90007（University Park，与已追踪 Trojan Terrace 2632 / University Manor 2700 同街，USC 步行约 5–8 min）；1988 年建 13-unit 两层小楼；水费 + 气费房东付；共用洗衣房 + A/C；不可养宠物；管理方 **SCSH Management Inc.**（非黑名单，⚠️ 与 Stuho 无已知关联但建议核实运营方口碑）；⚠️ 无 SSN 押金政策需直接询问；不计入今日新增（无发布日期）— [Rentler unit 1](https://www.rentler.com/places-for-rent/ca/los-angeles/2642-ellendale-place/11830195) · [Zillow (Studio 42)](https://www.zillow.com/apartments/los-angeles-ca/studio-42/9MKsYd) · [PadMapper](https://www.padmapper.com/buildings/p943665/studio-42-apartments-at-2642-ellendale-pl-los-angeles-ca-90007)
+- [2026-10-30] [1259 W 35th St — Renovated Studio $1,495（含 1 个门禁车位）](https://www.westsiderentals.com/los-angeles-ca/1259-w-35th-st-q7thmsy) — Studio / **明确标注 USC 2026-27 学年** 12 个月 lease / 来源: WebSearch/WestsideRentals / USC 约 0.4 mile（**DPS Zone + Fryft Zone 内**）；翻新 studio + 含 1 个 gated parking；⚠️ 问当前是否仍空置 + 无 SSN 押金政策；非黑名单；不计入今日新增（无发布日期）
+- [2026-10-30] [1166 W 29th St — Studio $1,339](https://www.rentler.com/places-for-rent/ca/los-angeles/1166-w-29th-st/12207547) — Studio 140 sq ft（超小户型，适合预算优先）/ 原标 **2026-08-10 起租**（2026-27 学年申请开放中）/ 来源: WebSearch/Rentler / 地址 1166 W 29th St, LA 90007（University Park，USC 步行约 8–10 min，DPS Zone 内）；学生房源；⚠️ 140 sq ft 极小，看房确认实际空间；⚠️ 无 SSN 押金政策需询问；非黑名单；不计入今日新增（无发布日期）
+- [2026-10-30] [1297 W 36th St — 1BR $1,235–$1,725（签约优惠曾为 1 个月免租）](https://www.westsiderentals.com/los-angeles-ca/1297-w-36th-st-housing-near-usc-4dzsyjk) — 1B1B / 12 个月 lease / ⚠️ 原优惠"Aug 10, 2026 前签约 1 个月免租"已过期，问是否有新优惠 / 来源: WebSearch/WestsideRentals / 地址 1297 W 36th St, LA 90007（USC 西侧步行约 10 min，近 DPS Zone 边缘）；$1,235 起为 USC 周边 1BR 低价位；非黑名单；不计入今日新增（无发布日期）
+- [2026-10-30] [710 W 27th St — 1BR $1,800–$1,850](https://www.rentable.co/los-angeles-ca/710-w-27th-st) — 1B1B 571 sq ft / 原标 **2026-07-15 可入住**（已过，问当前空置）/ 来源: WebSearch/Rentable / 地址 710 W 27th St, LA 90007（University Park，USC 步行约 10 min，DPS Zone 内）；⚠️ 无 SSN 押金政策需询问；非黑名单；不计入今日新增（无发布日期）
+- [2026-10-30] [Charming 1 Bedroom in the Heart of University Park — $1,950](https://www.rentable.co/los-angeles-ca/charming-1-bedroom-in-the-heart-of-university-park) — 1B1B（翻新）/ 原标 **2026-08-01 可入住**（已过，问当前空置）/ 来源: WebSearch/Rentable / University Park 核心（USC 步行范围）；⚠️ 具体地址未公开，联系时索要并确认是否 DPS Zone 内；⚠️ 无 SSN 押金政策需询问；非黑名单；不计入今日新增（无发布日期）
+- [2026-10-30] [West Adams Studios — Studio $1,450](https://www.apartments.com/west-adams-studios-los-angeles-ca/x48mk3p/) — Studio / 原标 **2026-08-05 可入住**（已过，问当前空置）/ 来源: WebSearch / West Adams（⚠️ 各站地址不一致：WestsideRentals 标 3605 W Adams Blvd，ApartmentAdvisor 标 4905 W Adams Blvd——后者距 USC 较远，联系时先确认具体位置再决定）；USC 公交/步行 15–30 min 视地址而定；非黑名单；⚠️ 无 SSN 押金政策需询问；不计入今日新增（无发布日期）— [WestsideRentals](https://www.westsiderentals.com/los-angeles-ca/west-adams-studio-apartments-x48mk3p) · [ApartmentAdvisor](https://www.apartmentadvisor.com/details/4905-w-adams-blvd-los-angeles-ca-90016)
+- [2026-10-30] [Orchard & Adams — Studio / 1BR 问价](https://zillow.com/b/orchard-and-adams-los-angeles-ca-CGB7xx) — Studio/1BR/2BR/3BR / ⚠️ 问起租日期 + 价格 / 来源: WebSearch/Zillow / Orchard Ave & Adams Blvd（University Park 北缘，**DPS 巡逻区内**，USC 步行约 10–12 min）；**提供短租 lease（short term leases）**——对错过秋季正常起租周期的情况友好；非黑名单；⚠️ 无 SSN 押金政策需询问；不计入今日新增（无发布日期）
+
 ---
 
 ## 2. Koreatown（次首选 — 距 USC E Line 约 25 min）
@@ -304,6 +317,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [Arwyn Manor Apts — NY Style — Gorgeous Studio (1920s Art Deco) — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-arwyn-manor-aptsny/7859582931.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；1920 年代 Art Deco 建筑，全面翻新 studio；WebFetch 403 无法核实价格及发布日期；非黑名单；不计入今日新增
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-10-30）
+
+- [2026-10-30] [Modern Cozy Studios in Koreatown (3715 W 1st St) — Studio $1,375–$1,450（1 个月免租）](https://www.apartments.com/modern-cozy-studios-in-koreatown-los-angeles-ca/sxz29y5/) — Studio 500 sq ft / ⚠️ 问起租日期（当前有空置，促销"1 Month Free"限新签 12 个月 lease）/ 来源: WebSearch / 地址 3715 W 1st St, LA 90004（K-town 北缘近 Virgil；步行约 0.5 mile 至 Beverly/Vermont Metro B/D Line → 7th St → E Line USC 约 35 min）；500 sq ft 在同价位 studio 中偏大；非黑名单；⚠️ 无 SSN 押金政策需直接询问；不计入今日新增（无发布日期）
 
 ---
 
