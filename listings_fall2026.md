@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-11-01　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -195,6 +195,15 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-27）
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
+### 自动监控新增（2026-11-01）
+
+> ⏰ **时间线提醒**：目标入住日 2026-08-20 已过。以下为当前（2026-27 学年）仍可能有空位的房源，联系时直接问"现在/春季起租还有哪些 studio/1bd"。
+
+- [2026-11-01] [1166 W 29th St — Studio $1,339](https://www.rentler.com/places-for-rent/ca/los-angeles/1166-w-29th-st/12207547) — Studio / 起租原标 2026-08-10（2026-27 学年申请开放中，11月需致电确认余位）/ 来源: WebSearch/Rentler / North University Park（USC DPS Zone 内，步行可达）；$1,339 为 USC 区 studio 低价位；⚠️ 运营方未知，联系前核实非黑名单 + 无 SSN 押金政策；⚠️ 云端网络策略无法访问 rentler 核实页面日期，不计入今日新增 — [Rentable 同址页](https://www.rentable.co/los-angeles-ca/1166-w-29th-st)
+- [2026-11-01] [1259 W 35th St — Studio $1,495 + 门禁车位](https://www.westsiderentals.com/los-angeles-ca/1259-w-35th-st-q7thmsy) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Westside Rentals / USC DPS Patrol Zone + Fryft（Free Lyft）Zone 内；**含 1 个门禁停车位**；⚠️ 运营方未知，联系前核实非黑名单 + 无 SSN 押金政策；WebFetch 403（已知问题站点），不计入今日新增
+- [2026-11-01] [1297 W 36th St — 1BR $1,235–$1,725](https://www.westsiderentals.com/los-angeles-ca/1297-w-36th-st-housing-near-usc-4dzsyjk) — 1B1B / 12 个月 lease（曾有 2026-08-10 前签约 1 个月免租促销，现已过期，可问是否有新促销）/ 来源: WebSearch/Westside Rentals / USC DPS Patrol Zone 内；$1,235 起为 USC 区 1BR 极低价位；⚠️ 运营方未知，联系前核实非黑名单 + 无 SSN 押金政策；WebFetch 403，不计入今日新增
+- [2026-11-01] [1137 W 36th Pl Unit 1 — Renovated Studio $1,850](https://www.apartments.com/1137-w-36th-pl-los-angeles-ca-unit-1/4dms93l/) — Studio / 标注"immediate move-in or pre-leasing"（随时可入住，适合当前时间点）/ 来源: WebSearch/Apartments.com + Westside Rentals / 地址 1137 W 36th Pl, LA 90007（**马路对面即 USC 校园**，W 36th Pl 街区）；翻新 studio；⚠️ 运营方未知，联系前核实非黑名单（注意同街 1168 W 36th Pl 为已追踪 Uloop F78 房源，勿混淆）+ 无 SSN 押金政策；WebFetch 403（apartments.com 已知问题站点），不计入今日新增 — [Westside Rentals 同址页](https://www.westsiderentals.com/los-angeles-ca/1137-w-36th-pl-unit-1-4dms93l)
 
 ---
 
