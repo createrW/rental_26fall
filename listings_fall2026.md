@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-11-03　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -387,6 +387,11 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 
 - [2026-05-05] [The Jade — Studio $1,750+](https://www.apartments.com/the-jade-san-gabriel-ca/pkdzqev/) — Studio 380 sq ft / 1BR 520 sq ft / ⚠️ 问起租日期（Fall 2026 未确认）/ 来源: WebSearch / 地址 6343-6359 Rosemead Blvd, San Gabriel CA 91775（SGV/San Gabriel，Metro 76/70 → Union Station → USC 约 80–90 min）；全新 128-unit 社区；含盐水泳池、健身房、co-working、in-unit W/D、EV 充电车位；宠物友好；非黑名单；⚠️ 无具体发布日期及 Fall 2026 确认，不计今日新增，建议直接联系 leasing 问 Aug 2026 起租 + 无 SSN 押金政策 — [WestsideRentals](https://www.westsiderentals.com/san-gabriel-ca/the-jade-pkdzqev) · [Zumper](https://www.zumper.com/apartment-buildings/p558159/jade-court-east-san-gabriel-ca)
 
+### 自动监控新增（2026-11-03）
+
+- [2026-11-03] [Alhambra 400 N Chapel Ave — 1B1B $2,280](https://losangeles.craigslist.org/sgv/apa/d/alhambra-courtyard-with-park-like/7878839161.html) — 1B1B 700 sq ft / ⚠️ 问起租日期 / 来源: Craigslist SGV（WebSearch 索引）/ Alhambra 91801 西侧（通勤白名单内较优位置）；courtyard + 电梯楼；CL 帖子有效期一般 ≤45 天，大概率仍在租；云端无法打开详情页（域名被网络策略屏蔽），押金倍数 / 无 SSN 政策需电话确认；非黑名单；不计今日新增
+- [2026-11-03] [Alhambra 400 N Chapel Ave — 1B1B $2,270](https://losangeles.craigslist.org/sgv/apa/d/alhambra-package-locker-system-laundry/7881805809.html) — 1B1B 700 sq ft / ⚠️ 问起租日期 / 来源: Craigslist SGV（WebSearch 索引）/ 同楼另一单元；covered parking + 包裹柜 + 洗衣房 + on-site management；猫狗友好；押金 / 无 SSN 政策需确认；非黑名单；不计今日新增
+
 ---
 
 ## 5. 直接搜索的平台（建议每周二 / 周四刷新）
@@ -484,3 +489,6 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-04-30）
 
 - [2026-04-30] [Drake Real Estate Group — Studio/1bd 问价](https://www.drakereg.com/for-lease) — Studio/1bd / ⚠️ 问起租日期 + 具体单元及价格 / 来源: WebSearch（Yelp 已注明 "Updated April 2026"）/ 旗下物业含 249 S Coronado St（ZIP 90057，Historic Filipinotown / Westlake，白名单区域）；描述含 "brand new loft style studio" 及 1bd，近 Koreatown / USC（约 3 英里）/ DTLA；非黑名单；联系 (310) 893-3335 / jeriagent@drakereg.com；⚠️ 无具体发布日期 + 2639 Monmouth Ave（同街区另一房源）已确认为 **Stuho 旗下黑名单物业**（需与 Drake REG 区分开）；⚠️ 不计今日新增 — [Apartments.com](https://www.apartments.com/249-s-coronado-st-los-angeles-ca/1hqmkx6/) · [Yelp](https://www.yelp.com/biz/drake-real-estate-group-los-angeles)
+### 自动监控新增（2026-11-03）
+
+- [2026-11-03] [3528 W Adams Blvd Unit 19 — Studio $1,495](https://www.apartments.com/3528-w-adams-blvd-los-angeles-ca-unit-19/tpnq2n8/) — Studio / Available Now（Google 索引快照显示，需确认）/ 来源: Apartments.com（WebSearch）/ West Adams（通勤白名单；公交或 E Line 至 USC 约 20–30 min）；on-site laundry；非黑名单；⚠️ 无发布日期 + 无 SSN 押金政策需电话问；不计今日新增
