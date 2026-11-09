@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-11-09　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -195,6 +195,14 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 ### 自动监控新增（2026-06-27）
 
 - [2026-06-27] [Semi-Remodeled 1BD/1BA + Garage — West Adams — 问价](https://losangeles.craigslist.org/wst/apa/d/los-angeles-semi-remodeled-bedroom-bath/7943167801.html) — 1BD/1BA / ⚠️ 问起租日期 + 具体价格 / 来源: WebSearch/Craigslist-wst / West Adams（USC 步行约 15–20 min）；半翻新，附带独立车库（garage）；帖 ID 7943167801 为今日检索最高 CL ID，高于所有已追踪帖，推测发布于 2026-06-25 ~ 06-27；WebFetch 403 无法核实价格及具体地址；非黑名单；⚠️ 不计入今日新增（无法核实发布日期）
+
+### 自动监控新增（2026-11-09）
+
+> ⚠️ **提示**：目标入住日 2026-08-20 已过。以下为 2026-2027 学年仍可能有空位的候选；监控条件（Fall 2026）或需更新为 Spring 2027 / 2027-2028 学年。
+
+- [2026-11-09] [North University Park Studio — 1166 W 29th St — $1,339](https://www.rentler.com/places-for-rent/ca/los-angeles/1166-w-29th-st/12207547) — Studio / 起租 2026-08-10（标注"2026-2027 学年申请开放"）/ 来源: WebSearch/Rentler / North University Park，步行可达 USC 及 USC Village；$1,339 明显低于区域均价；非黑名单；⚠️ 8/10 起租日已过，联系前确认是否仍有空位；⚠️ rentler.com 不在云端网络白名单，无法核实发布日期，不计入今日新增 — 另见 [Rentable 页面](https://www.rentable.co/los-angeles-ca/1166-w-29th-st)
+- [2026-11-09] [2642 Ellendale Place Studio — $1,700](https://www.rentler.com/places-for-rent/ca/los-angeles/2642-ellendale-place/11830195) — Studio / 起租 2026-08-17 / 来源: WebSearch/Rentler / Ellendale Pl（University Park，与已追踪 Trojan Terrace 2632 / University Manor 2700 / Trojan Plaza 2727 同街）；⚠️ 运营方未知，联系前务必核实非 Stuho 旗下（Stuho 在邻近 Menlo Ave 2640/2646/2658 有多处黑名单物业）；⚠️ 8/17 起租日已过需确认空位；无法核实发布日期，不计入今日新增 — [同楼另一 unit](https://www.rentler.com/places-for-rent/ca/los-angeles/2642-ellendale-place/11830197)
+- [2026-11-09] [USC Co-Living Micro-Studio — 1165-1167 W 37th Pl — $2,180](https://www.forrentuniversity.com/ca/los-angeles/1165-1167-w-37th-pl/d4rlv6l) — Micro-Studio（独立单间）/ 起租 2026-08（"Brand New USC Housing — Move In August 2026"）/ 来源: WebSearch/ForRentUniversity / W 37th Pl（USC DPS Zone 内，USC 步行约 5–8 min）；全新楼；非黑名单；⚠️ micro-studio $2,180 价格偏高；⚠️ 运营方及无 SSN 押金政策未知；无法核实发布日期，不计入今日新增
 
 ---
 
