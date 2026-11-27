@@ -1,7 +1,7 @@
 # Fall 2026 房源汇总 — USC / K-town / DTLA / SGV / Rosemead
 
 **搜索日期：2026-04-25　　目标入住：~2026-08-20（Fall 2026）**
-**最后更新：2026-07-06　今日新增 0 条**
+**最后更新：2026-11-27　今日新增 0 条**
 **单元类型：studio / 1B1B　　申请人：无 SSN（关键过滤条件）**
 **通勤要求：USC校车（Tram/ICS/Lyft）+ LA Metro/Bus 两小时内可达 USC**
 
@@ -304,6 +304,10 @@ USC 周边大量"专门做学生"的品牌（Tripalink/Mosaic/Stuho/First Choice
 - [2026-05-25] [Arwyn Manor Apts — NY Style — Gorgeous Studio (1920s Art Deco) — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-arwyn-manor-aptsny/7859582931.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；1920 年代 Art Deco 建筑，全面翻新 studio；WebFetch 403 无法核实价格及发布日期；非黑名单；不计入今日新增
 - [2026-05-25] [The Abbey Apts — Gorgeous Studio — W/D in Unit + Rooftop BBQ — 问价](https://losangeles.craigslist.org/lac/apa/d/los-angeles-the-abbey-apts-gorgeous/7825728419.html) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Craigslist-lac / K-town；W/D in unit，屋顶 BBQ + 火坑；现代设计；WebFetch 403 无法核实价格及发布日期；⚠️ 帖 ID 较低，可能为较早发布；非黑名单；不计入今日新增
 - [2026-05-25] [Studio for rent in Koreatown near USC — $2,300/mo](https://www.facebook.com/groups/3624772284409021/posts/4190265851192992/) — Studio / ⚠️ 问起租日期 / 来源: WebSearch/Facebook / K-town；个人/房东直发 Facebook 群，$2,300/月；Facebook 403 无法核实发布日期；非黑名单；不计入今日新增
+
+### 自动监控新增（2026-11-27）
+
+- [2026-11-27] [525 S Ardmore Ave (Koreatown) — Furnished Studio $1,950](https://renthop.com/listings/525-s-ardmore-avenue/239/73252335) — Studio 368 sq ft（带家具）/ 起租 Immediate Move-In（搜索摘要标注 "Posted 1 day ago"，约 2026-11-26 新发）/ 来源: WebSearch/RentHop / 地址 525 S Ardmore Ave, LA 90020（Koreatown Wilshire Center；步行约 0.4 mile 至 Vermont/Wilshire Metro B/D Line → 7th St/Metro Center → E Line USC 约 30–35 min）；gated community + 1 个指定车位 + 楼内洗衣；非黑名单；⚠️ 本会话网络策略拦截 renthop.com（DNS 层），无法打开详情页核实发布日期与押金政策，建议手动打开链接确认；⚠️ 无 SSN 押金政策需直接询问；不计入今日新增（日期仅来自搜索摘要，未经详情页核实）
 
 ---
 
